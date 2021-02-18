@@ -4,6 +4,19 @@ You can use the [editor on GitHub](https://github.com/daniela-venuta/SOEN357-Min
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Research
+## Understanding the Problem
+The first step in our reaserch was understand the problem that our potential users are faced with. We tackled the problem by in turn asking ourselves three questions which to better understand the use of technology for health in our current time:
+  ### What is a healthy lifestyle?
+  
+  ### What are the impacts of COVID-19 on health?
+  
+  
+  ### What are the impacts of technology on health?
+  
+
+### Surveys
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
