@@ -14,7 +14,7 @@ The first step in our reaserch was understand the problem that our potential use
 ## Surveys
  To further understand our users, we conducted a survey to further elicit what they need or expect from health applications. These surveys were also the basis for our user personas, based on different age groups, interests and needs from a health super app. The survey can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSeXmbpaGAEwBv28cvgpiyiZQf132VVsk4mRlpsMhtqeBPvRhA/viewform?usp=sf_link).
  
- ![Impact on Outdoor Activity](https://github.com/daniela-venuta/SOEN357-Mini-Project/blob/gh-pages/covid%20and%20outdoors.png)
+ ![Impact on Outdoor Activity](./covid%20and%20outdoors.png)
  ![Impact on Technology Use](https://github.com/daniela-venuta/SOEN357-Mini-Project/blob/gh-pages/covid%20and%20tech.png)
  ![Impact on Health](https://github.com/daniela-venuta/SOEN357-Mini-Project/blob/gh-pages/Impact%20of%20Covid%20on%20Health.png)
  
