@@ -3,10 +3,17 @@
 The first step in our reaserch was understand the problem that our potential users are faced with. We tackled the problem by in turn asking ourselves three questions which to better understand the use of technology for health in our current time:
 
 ### What is a healthy lifestyle?
-  Based off our reasearch, we were able to determine the main factors contributing a healthy lifestyle: 
+  Based off our reasearch, we were able to determine the main factors contributing a healthy lifestyle:
+  - Diet
+  - Physical Activity
+  - Body weight
+  - Mental health
+  - Social habits
+  - Sleep habits
+  - Alcohol/Smoking/Drug habits
   
 ### What are the impacts of COVID-19 on health?
-  Aaaaaa
+  The COVID-19 pandemic
   
 ### What are the impacts of technology on health?
   Aaaaaaa
@@ -15,12 +22,14 @@ The first step in our reaserch was understand the problem that our potential use
  To further understand our users, we conducted a survey to further elicit what they need or expect from health applications. These surveys were also the basis for our user personas, based on different age groups, interests and needs from a health super app. The survey can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSeXmbpaGAEwBv28cvgpiyiZQf132VVsk4mRlpsMhtqeBPvRhA/viewform?usp=sf_link).
  
  ![Impact on Outdoor Activity](./covid%20and%20outdoors.png)
- ![Impact on Technology Use](https://github.com/daniela-venuta/SOEN357-Mini-Project/blob/gh-pages/covid%20and%20tech.png)
- ![Impact on Health](https://github.com/daniela-venuta/SOEN357-Mini-Project/blob/gh-pages/Impact%20of%20Covid%20on%20Health.png)
+ ![Impact on Technology Use](./covid%20and%20tech.png)
+ ![Impact on Health](./Impact%20of%20Covid%20on%20Health.png)
  
- 
- 
- 
+ ## User Personas
+ ![a](./Mini%20Project%20-%20Frame%201.jpg)
+ ![a](./Mini%20Project%20-%20Frame%202.jpg)
+ ![a](./Mini%20Project%20-%20Frame%203.jpg)
+ ![a](./Mini%20Project%20-%20Frame%204.jpg)
  
 ### Markdown
 
