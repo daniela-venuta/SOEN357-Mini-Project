@@ -26,6 +26,7 @@ The first step in our reaserch was understand the problem that our potential use
  ![Impact on Health](./Impact%20of%20Covid%20on%20Health.png)
  
  ## User Personas
+ 
  ![a](./Mini%20Project%20-%20Frame%201.jpg)
  ![a](./Mini%20Project%20-%20Frame%202.jpg)
  ![a](./Mini%20Project%20-%20Frame%203.jpg)
