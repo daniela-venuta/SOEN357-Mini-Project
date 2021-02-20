@@ -58,10 +58,7 @@ This section surveyed how COVID-19 impacted the survey taker's personal health a
  ![Impact on Technology Use](./covid%20and%20tech.png)
  ![Impact on Health](./Impact%20of%20Covid%20on%20Health.png)
 
-#### Main findings
-
-### Experience with Technology and Fitness Applications
-The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.
+This section of the survey highlight several important feelings that a majority of the respondents felt accross all age groups. Overall, the pandmic had a significant impact on how they perceived their overall health. Most participants noticed an increase in their technology use, and felt that the pandemic was hindering their ability to go outside to get physical activity/ They also felt that their ability to socialize, exciize and maintain their social needs were mostly impacted by the pandemic. The graph below show the findings across all age groups.
 
 ### Experience with Technology and Fitness Applications
 The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.
