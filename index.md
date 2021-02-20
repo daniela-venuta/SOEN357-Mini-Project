@@ -1,11 +1,3 @@
-# OmniHealth
-
-Minh-Tam Do
-
-Émilie Martin
-
-Daniela Venuta
-
 # Research
 
 ## Understanding the Problem
@@ -139,6 +131,16 @@ The main colours for our applications are all purple hues. These colours were ch
  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbJJuujpniYeyRokV3QwjJJ%2FWireframes-and-Prototypes" allowfullscreen></iframe>
  
 # Mockup
+The mockup is a collection of 15 screens that are combined to create our super app. Our application qualifies as a super app because it encompasses a wide variety of services that are easily accessible through the app's main page. These are shown as in-house developped features but can also be included as as 3rd party software if desired. The reason they were illustrated as in-house technology is because the team felt that we could provide more tailored services to our users based on their personas to offer the best fit for them. It combines many different functions based on the different aspects of health that our surveys showed were important to our users. Below is the list of important features and services that the super app offers,
+
+1. Login Page and Account Creation: The login page is design to be simple and hassle free, it allows users to save and keep track of their personal info in a secure manner, as privacy was a main concern for many users.
+2. Home Navigation Screen: This screen is the portal to all the services that are provided by the super app. From here, we can access the main services: Screen Tracking, Food Tracking, Exercise Tracking, Friends and Messaging, Sleep Tracking, and Account Customization.
+3. Screentime Tracking: This service is split up into many different screens. The first page that a user lands on provides an overview of how many hours they have spent on each of their apps over the course of the week. They can click on this overview to get a more detailed breakdown of hours per day in a graph and compare it to the goal they have set for themselves. From here, they can also choose to create work modes to block applications, depending on what they want to focus on. This allows users to focus on their work, themselves, their exercise, or whatever else they may be doing by disabling apps that might be distracting at that time.
+4. Exercise Tracking: The exercise tracking screen is a simple interface that provides a step counter but goes further into pages for finding locations, or tracking cardio or strength exercises. They can also get map data from their location to learn about how crowded certain exercise spots are and determine what measures to take to protect themselves from COVID-19 and assess risk. This service was provided because of the high number of people in the survey that reported that anxiety over COVID-19 has prevented them from seeking outdoor physical activity. The detailed logging in the exercise subscreens allow fitness enthusiasts to keep track of their past workouts and record important metrics.
+5. Sleep Tracking: This service allows users to rank their quality of sleep and number of hours slept. It's calendar view allows easy long term tracking and shows how your habits have influenced your sleep over long periods of time.
+6. Food Tracking: This service provides basic calorie counting, and meal tracking and can communicate with the internet to help find foods and their nutritional content to log.
+7. Friends and Messaging: These feature was designed to incorporate social aspects into our application and it was incredibly important to many people who responded in the survey noted how important social features are, and social interaction is an important component of health. It also allows sharing your activity to your in-app friends to keep the spirit of competition alive for those who think this is important like those who fit the "Fit Dad" archetype.
+8. Account Settings and Linking: This screen allows you to customize any settings to your will, and turn off any social features if you want your data to remain private. It also allows you to connect different to different social apps like Facebook, Instagram, Google and Twitter to share your progress and acheivements. It is also through here that users can generate personalized reports based off of the metrics that have been recorded in the application.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLXF5BgSzYSb7XUnbkNRak5%2FMockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
@@ -149,6 +151,8 @@ Below is the prototype of the application, it is not meant to be a fully functio
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLXF5BgSzYSb7XUnbkNRak5%2FMockup%3Fnode-id%3D1%253A1869%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 # Closing Remarks
+
+The development of these user interface and user experience prototypes allowed us to consider a wide variety of users and their needs. It was important for our application to provide a wide variety of services that can be useful both for hardcore health and fitness enthusiasts as well as more casual users and provide the ability to customize the app to their prefered experience. For this reason, all basic services can be accessed easily through the main hub, but those who want more are free to explore different pages that can provide them with more tailored services. It also gives users flexibility in their privacy and to share only what they want to with the world. OmniHealth is an application that improves the overall health and wellbeing of its users by letting them be more conscious of their screentime, and by gathering under one app all the main factors of health: physical, mental, and social.
 
 # Picture Sources
 
