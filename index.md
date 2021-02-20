@@ -73,14 +73,13 @@ As can be seen in the charts below, most of our respondents are very active on s
 ## User Personas
 The following user personas were derived from the results of the survey to encompass the wide range of possible users and how our application can serve their needs. We decided to make four user personas to properly distinguish between the different types of users that answered our survey, focusing on their own goals and experience with technology, as well as the motivations that would encourage them to use our application.
  
- ### The "Fit Dad"
- ![a](./Mini%20Project%20-%20Frame%201.jpg)
+### The "Fit Dad"
+![a](./Mini%20Project%20-%20Frame%201.jpg)
 This user persona is derived from older age groups in our surveys, that are incredibly active and are focused on hacking their health data to improve their athletic performance and overall health. Getting analytics back is very important to them, and want to be able to access this information easily to put it to good use. They also want to challenge each other, which is why social features are important to them.
 
 ### The "Fitness Enthusiast"
-This persona is formed from a tech savvy younger age group who works out frequently and is quite familiar with technology. They want applications to be customizable to their needs to keep their health schedule on track, and are motivated by seeing history and improvement in terms of their overall fitness. They are extroverted but still concerned about privacy, so their data is important to them, but they are less likely to share it on social apps.
 ![a](./Mini%20Project%20-%20Frame%202.jpg)
-
+This persona is formed from a tech savvy younger age group who works out frequently and is quite familiar with technology. They want applications to be customizable to their needs to keep their health schedule on track, and are motivated by seeing history and improvement in terms of their overall fitness. They are extroverted but still concerned about privacy, so their data is important to them, but they are less likely to share it on social apps.
 
 ### The "Working Mom"
 ![a](./Mini%20Project%20-%20Frame%203.jpg)
