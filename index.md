@@ -61,7 +61,7 @@ The questions were designed to understand what our potential users found to be t
 <br><p>The purpose of this section is to understand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.</p>
 <p>There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas.</p>
 </details>
-<br>
+
 <details>
   <summary><strong style="font-size:1.17em">Healthy Lifestyle</strong></summary>
 
@@ -69,7 +69,7 @@ The questions were designed to understand what our potential users found to be t
 <img src="assets\Survey-healthyLifestyleFactors.png" alt="LifestyleFactors">
 <p>From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.</p>
 </details>
-<br>
+
 <details>
   <summary><strong style="font-size:1.17em">Impacts of COVID-19</strong></summary>
 
@@ -81,7 +81,7 @@ The questions were designed to understand what our potential users found to be t
 
 <p>This section of the survey highlight several important feelings that a majority of the respondents felt accross all age groups. Overall, the pandmic had a significant impact on how they perceived their overall health. Most participants noticed an increase in their technology use, and felt that the pandemic was hindering their ability to go outside to get physical activity/ They also felt that their ability to socialize, exciize and maintain their social needs were mostly impacted by the pandemic. The graph below show the findings across all age groups.</p>
 </details>
-<br>
+
 <details>
   <summary><strong style="font-size:1.17em">Experience with Technology and Fitness Apps</strong></summary>
 
