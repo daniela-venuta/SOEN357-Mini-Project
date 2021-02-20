@@ -27,7 +27,15 @@ However, many of these effects can be mitigated with the proper techniques to ma
 ## Market Research
 
 ## Surveys
- To further understand our users, we conducted a survey to further elicit what they need or expect from health applications. These surveys were also the basis for our user personas, based on different age groups, interests and needs from a health super app. The survey can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSeXmbpaGAEwBv28cvgpiyiZQf132VVsk4mRlpsMhtqeBPvRhA/viewform?usp=sf_link).
+To further understand our users, we conducted a survey to further elicit what they need or expect from health applications. These surveys were also the basis for our user personas, based on different age groups, interests and needs from a health super app. The survey can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSeXmbpaGAEwBv28cvgpiyiZQf132VVsk4mRlpsMhtqeBPvRhA/viewform?usp=sf_link).
+ 
+The questions were designed to understand what our potential users found to be the most important factors for their physical and mental health and to gain an understanding of their current patterns, motivations and frustrations. Prior to answering the survey, users had to read, consent to, and sign the ethics form provided for the context of the course, to ensure that they had knowledge of why the survey was being conducted and how their data would be used. Their answers were not seen until they decided to submit them, and they also had the right not to answer any question.
+
+The survey was split into 4 sections, listed below with their rationale.
+  1. Age group and personality: understand where the survey takes are located Myers Briggs Type Indicator (MBTI), and gain insight on whether age and personality plays a factor      in app usage.
+  2. Healthy lifestyle: This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they were already using fitness technology to learn more about the current market environment from our user perspective.
+  3. Impacts of COVID-19: This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.
+  4. Experience with Technology and Fitness Apps: The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.
  
  ![Impact on Outdoor Activity](./covid%20and%20outdoors.png)
  ![Impact on Technology Use](./covid%20and%20tech.png)
