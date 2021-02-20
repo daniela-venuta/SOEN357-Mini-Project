@@ -35,7 +35,7 @@ Sleep, like nutrition, is the basis of a healthy lifestyle. It ensures your body
     
 Smoking of any sort is especially bad for lungs whether it is tobacco, weed or another substance. Alcohol on the other hand is ok in moderation but overdose can lead to a decline in mental faculties and organ failure.
 </details>
-<br>
+<hr>
 
 ### What are the impacts of COVID-19 on health?
 The COVID-19 pandemic has had a huge impact on physical and mental health. Over the course of the pandemic situation, we have seen a [marked increase in technology consumption](https://www.bluefountainmedia.com/blog/impact-covid-19-future-technology) for work, but also for entertainment, especially regarding streaming content like Netflix. Technology has also become the primary means of communication with quarantining measures through applications like [Zoom which has exploded in popularity](https://www.dallasnews.com/business/2020/11/20/7-ways-technology-is-helping-small-businesses-during-covid-19/) , Microsoft Teams and social media. Technology has also helped [track the spread of the COVID-19 virus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html) to help keep the public safe and informed, as well as [helping hospitals manage data related to the virus](https://www2.deloitte.com/us/en/pages/consulting/solutions/convergehealth-connect-for-crisis-response-health-care.html). Since people are more unable to go out, there has also been a transition of health services, [counseling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161478/), for example, that has moved online.
@@ -48,7 +48,7 @@ However, technology can also be used to benefit human health. [A study published
 ## Market Research
 Currently there is no app on the market that both monitors lifestyle and screen time. What most people do is that they use a collection of apps to fill all the functions they need so for example, they would use fitbit to improve their physical health in conjunction with apple fitness+ at the gym and lose it to build up healthy meals. Here follows a Venn diagram displaying what apps exist on the market and what they cover:
 ![Venn Diagram](assets\MarketResearch-vennDiagram.jpg)
-We can see that most apps specialize with no true super app which makes it so users are forced to use multiple apps together. Also note that there is no lifestyle app that covers screen time.
+We can see that most apps specialize with no true super app which makes it so users are forced to use multiple apps together. Also note that there is no lifestyle app that covers screen time. Daylio is a diary kind of app which allows it to fill many functions but it was primarily designed around feelings so it is in essence a mental support app.
 
 ## Surveys
 To further understand our users, we conducted a survey to further elicit what they need or expect from health applications. These surveys were also the basis for our user personas, based on different age groups, interests and needs from a health super app. The survey can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSeXmbpaGAEwBv28cvgpiyiZQf132VVsk4mRlpsMhtqeBPvRhA/viewform?usp=sf_link).
@@ -58,14 +58,14 @@ The questions were designed to understand what our potential users found to be t
 <details>
   <summary><strong style="font-size:1.17em">Age Group and Personality</strong></summary>
 
-<br><p>The purpose of this section is to understand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.</p>
+<hr><p>The purpose of this section is to understand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.</p>
 <p>There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas.</p>
 </details>
 
 <details>
   <summary><strong style="font-size:1.17em">Healthy Lifestyle</strong></summary>
 
-<br><p>This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.</p>
+<hr><p>This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.</p>
 <img src="assets\Survey-healthyLifestyleFactors.png" alt="LifestyleFactors">
 <p>From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.</p>
 </details>
@@ -73,7 +73,7 @@ The questions were designed to understand what our potential users found to be t
 <details>
   <summary><strong style="font-size:1.17em">Impacts of COVID-19</strong></summary>
 
-<br><p>This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.</p>
+<hr><p>This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.</p>
 
 <img src="assets\Survey-covidAndOutdoors.png" alt="COVID and outdoors">
 <img src="assets\Survey-covidAndTech.png" alt="COVID and tech">
@@ -85,14 +85,14 @@ The questions were designed to understand what our potential users found to be t
 <details>
   <summary><strong style="font-size:1.17em">Experience with Technology and Fitness Apps</strong></summary>
 
-<br><p>The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.</p>
+<hr><p>The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.</p>
 
 <p>As can be seen in the charts below, most of our respondents are very active on social media, as it takes up more than 2 hours of their day, making the inclusion of social media into our application an interesting path to explore, however, the results are much more mixed in terms of whether they would like to see the activity of others shared.</p>
 
 <img src="assets\Survey-socialMediaHabits.png" alt="social media use">
 <img src="assets\Survey-socialActivity.png" alt="social life">
 </details>
-<br>
+<hr>
  
 ## User Personas and Journey Maps
 ### User Personas
