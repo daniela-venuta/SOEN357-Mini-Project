@@ -1,3 +1,11 @@
+# OmniHealth
+
+Minh-Tam Do
+
+Émilie Martin
+
+Daniela Venuta
+
 # Research
 
 ## Understanding the Problem
@@ -12,12 +20,17 @@ We were tasked with creating an app that would encourage healthy screen habits a
   A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/). Being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
 </details>
 
+
 #### Physical Activity
 Being active is an important part of a healthy lifestyle as it helps growth in children and, similarly to a healthy diet, helps deter various chronic diseases including cancer, type 2 diabetes and hypertension.
+
 #### Mental Health
 The World Health Organisation defines mental health as a "state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community". Mental Health and Physical health are closely related and being in a healthy mental state contributes to being healthy physically.
+
 #### Good Sleep
+
 Sleep, like nutrition, is the basis of a healthy lifestyle. It ensures your body has enough energy to work properly throughout the day. The concept of good sleep is relatively new as we discovered how better sleeping habits and sleeping posture can help us achieve a better rest and therefore, a healthier lifestyle.
+
 #### Foreign Substances
 Smoking of any sort is especially bad for lungs whether it is tobacco, weed or another substance. Alcohol on the other hand is ok in moderation but overdose can lead to a decline in mental faculties and organ failure.
 
@@ -102,7 +115,10 @@ This user is familiar with technology and uses many apps to explore how they can
 # Sketches
 
 # Colour Palette
- 
+![Colour Palette](https://github.com/daniela-venuta/SOEN357-Mini-Project/blob/daniela-venuta-patch-1/colour%20palette.png)
+
+The main colours for our applications are all purple hues. These colours were chosen for their wide appeal, and because purple is both [calming, and energetic](https://www.bourncreative.com/meaning-of-the-color-purple/#:~:text=Purple%20combines%20the%20calm%20stability,mystery%2C%20independence%2C%20and%20magic) as it has hues of both blue and red. Users will be spending a lot of time on the application so it was important to select colours that would not cause eye strain due to their brightness. It goes well with both the calmer uses such as sleep tracking and screen time tracking, but also provides the energy needed to track workouts and fitness.
+
 # Wireframes
 
  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbJJuujpniYeyRokV3QwjJJ%2FWireframes-and-Prototypes" allowfullscreen></iframe>
@@ -112,6 +128,8 @@ This user is familiar with technology and uses many apps to explore how they can
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLXF5BgSzYSb7XUnbkNRak5%2FMockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 # Prototype
+
+Below is the prototype of the application, it is not meant to be a fully functional prototype, but rather a concept meant to provide insight on the flow of the app, and navigation between the pages, as well as a more robust experience on what the application would appear like on the mobile device. The prototype has several functioning buttons to navigate between pages and is scrollable.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLXF5BgSzYSb7XUnbkNRak5%2FMockup%3Fnode-id%3D1%253A1869%26scaling%3Dscale-down" allowfullscreen></iframe>
 
