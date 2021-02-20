@@ -125,7 +125,7 @@ This user is familiar with technology and uses many apps to explore how they can
 # Sketches
 
 # Colour Palette
-![Colour Palette](https://github.com/daniela-venuta/SOEN357-Mini-Project/blob/daniela-venuta-patch-1/colour%20palette.png)
+![Colour Palette](./colour%20palette.png)
 
 The main colours for our applications are all purple hues. These colours were chosen for their wide appeal, and because purple is both [calming, and energetic](https://www.bourncreative.com/meaning-of-the-color-purple/#:~:text=Purple%20combines%20the%20calm%20stability,mystery%2C%20independence%2C%20and%20magic) as it has hues of both blue and red. Users will be spending a lot of time on the application so it was important to select colours that would not cause eye strain due to their brightness. It goes well with both the calmer uses such as sleep tracking and screen time tracking, but also provides the energy needed to track workouts and fitness.
 
