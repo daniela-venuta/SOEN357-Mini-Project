@@ -58,14 +58,14 @@ The questions were designed to understand what our potential users found to be t
 <details>
   <summary><strong style="font-size:1.17em">Age Group and Personality</strong></summary>
 
-<hr><p>The purpose of this section is to understand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.</p>
+<br><p>The purpose of this section is to understand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.</p>
 <p>There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas.</p>
 </details>
 
 <details>
   <summary><strong style="font-size:1.17em">Healthy Lifestyle</strong></summary>
 
-<hr><p>This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.</p>
+<br><p>This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.</p>
 <img src="assets\Survey-healthyLifestyleFactors.png" alt="LifestyleFactors">
 <p>From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.</p>
 </details>
@@ -73,7 +73,7 @@ The questions were designed to understand what our potential users found to be t
 <details>
   <summary><strong style="font-size:1.17em">Impacts of COVID-19</strong></summary>
 
-<hr><p>This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.</p>
+<br><p>This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.</p>
 
 <img src="assets\Survey-covidAndOutdoors.png" alt="COVID and outdoors">
 <img src="assets\Survey-covidAndTech.png" alt="COVID and tech">
@@ -85,7 +85,7 @@ The questions were designed to understand what our potential users found to be t
 <details>
   <summary><strong style="font-size:1.17em">Experience with Technology and Fitness Apps</strong></summary>
 
-<hr><p>The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.</p>
+<br><p>The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.</p>
 
 <p>As can be seen in the charts below, most of our respondents are very active on social media, as it takes up more than 2 hours of their day, making the inclusion of social media into our application an interesting path to explore, however, the results are much more mixed in terms of whether they would like to see the activity of others shared.</p>
 
@@ -137,42 +137,42 @@ The mockup is a collection of 15 screens that are combined to create our super a
 
 <details>
   <summary><strong>Login Page and Account Creation</strong></summary>
-  <hr><p>The login page is design to be simple and hassle free, it allows users to save and keep track of their personal info in a secure manner, as privacy was a main concern for many users.</p>
+  <br><p>The login page is design to be simple and hassle free, it allows users to save and keep track of their personal info in a secure manner, as privacy was a main concern for many users.</p>
 </details>
 
 <details>
   <summary><strong>Home Navigation Screen</strong></summary>
-  <hr><p>This screen is the portal to all the services that are provided by the super app. From here, we can access the main services: Screen Tracking, Food Tracking, Exercise Tracking, Friends and Messaging, Sleep Tracking, and Account Customization.</p>
+  <br><p>This screen is the portal to all the services that are provided by the super app. From here, we can access the main services: Screen Tracking, Food Tracking, Exercise Tracking, Friends and Messaging, Sleep Tracking, and Account Customization.</p>
 </details>
 
 <details>
   <summary><strong>Screentime Tracking</strong></summary>
-  <hr><p>This service is split up into many different screens. The first page that a user lands on provides an overview of how many hours they have spent on each of their apps over the course of the week. They can click on this overview to get a more detailed breakdown of hours per day in a graph and compare it to the goal they have set for themselves. From here, they can also choose to create work modes to block applications, depending on what they want to focus on. This allows users to focus on their work, themselves, their exercise, or whatever else they may be doing by disabling apps that might be distracting at that time.</p>
+  <br><p>This service is split up into many different screens. The first page that a user lands on provides an overview of how many hours they have spent on each of their apps over the course of the week. They can click on this overview to get a more detailed breakdown of hours per day in a graph and compare it to the goal they have set for themselves. From here, they can also choose to create work modes to block applications, depending on what they want to focus on. This allows users to focus on their work, themselves, their exercise, or whatever else they may be doing by disabling apps that might be distracting at that time.</p>
 </details>
 
 <details>
   <summary><strong>Exercise Tracking</strong></summary>
-  <hr><p>The exercise tracking screen is a simple interface that provides a step counter but goes further into pages for finding locations, or tracking cardio or strength exercises. They can also get map data from their location to learn about how crowded certain exercise spots are and determine what measures to take to protect themselves from COVID-19 and assess risk. This service was provided because of the high number of people in the survey that reported that anxiety over COVID-19 has prevented them from seeking outdoor physical activity. The detailed logging in the exercise subscreens allow fitness enthusiasts to keep track of their past workouts and record important metrics.</p>
+  <br><p>The exercise tracking screen is a simple interface that provides a step counter but goes further into pages for finding locations, or tracking cardio or strength exercises. They can also get map data from their location to learn about how crowded certain exercise spots are and determine what measures to take to protect themselves from COVID-19 and assess risk. This service was provided because of the high number of people in the survey that reported that anxiety over COVID-19 has prevented them from seeking outdoor physical activity. The detailed logging in the exercise subscreens allow fitness enthusiasts to keep track of their past workouts and record important metrics.</p>
 </details>
 
 <details>
   <summary><strong>Sleep Tracking</strong></summary>
-  <hr><p>This service allows users to rank their quality of sleep and number of hours slept. It's calendar view allows easy long term tracking and shows how your habits have influenced your sleep over long periods of time.</p>
+  <br><p>This service allows users to rank their quality of sleep and number of hours slept. It's calendar view allows easy long term tracking and shows how your habits have influenced your sleep over long periods of time.</p>
 </details>
 
 <details>
   <summary><strong>Food Tracking</strong></summary>
-  <hr><p>This service provides basic calorie counting, and meal tracking and can communicate with the internet to help find foods and their nutritional content to log.</p>
+  <br><p>This service provides basic calorie counting, and meal tracking and can communicate with the internet to help find foods and their nutritional content to log.</p>
 </details>
 
 <details>
   <summary><strong>Friends and Messaging</strong></summary>
-  <hr><p>These feature was designed to incorporate social aspects into our application and it was incredibly important to many people who responded in the survey noted how important social features are, and social interaction is an important component of health. It also allows sharing your activity to your in-app friends to keep the spirit of competition alive for those who think this is important like those who fit the "Fit Dad" archetype.</p>
+  <br><p>These feature was designed to incorporate social aspects into our application and it was incredibly important to many people who responded in the survey noted how important social features are, and social interaction is an important component of health. It also allows sharing your activity to your in-app friends to keep the spirit of competition alive for those who think this is important like those who fit the "Fit Dad" archetype.</p>
 </details>
 
 <details>
   <summary><strong>Account Settings and Linking</strong></summary>
-  <hr><p>This screen allows you to customize any settings to your will, and turn off any social features if you want your data to remain private. It also allows you to connect different to different social apps like Facebook, Instagram, Google and Twitter to share your progress and acheivements. It is also through here that users can generate personalized reports based off of the metrics that have been recorded in the application.</p>
+  <br><p>This screen allows you to customize any settings to your will, and turn off any social features if you want your data to remain private. It also allows you to connect different to different social apps like Facebook, Instagram, Google and Twitter to share your progress and acheivements. It is also through here that users can generate personalized reports based off of the metrics that have been recorded in the application.</p>
 </details>
 <br>
 
