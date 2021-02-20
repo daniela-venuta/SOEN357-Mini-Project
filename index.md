@@ -189,24 +189,42 @@ Below is the prototype of the application, it is not meant to be a fully functio
 The development of these user interface and user experience prototypes allowed us to consider a wide variety of users and their needs. It was important for our application to provide a wide variety of services that can be useful both for hardcore health and fitness enthusiasts as well as more casual users and provide the ability to customize the app to their prefered experience. For this reason, all basic services can be accessed easily through the main hub, but those who want more are free to explore different pages that can provide them with more tailored services. It also gives users flexibility in their privacy and to share only what they want to with the world. OmniHealth is an application that improves the overall health and wellbeing of its users by letting them be more conscious of their screentime, and by gathering under one app all the main factors of health: physical, mental, and social.
 
 # Picture Sources
+
 https://www.pexels.com/photo/photo-of-smartphone-near-decorative-plant-4065906/
+
 https://www.pexels.com/photo/person-holding-orange-fruit-3737690/
+
 https://www.pexels.com/photo/bed-bedroom-morning-home-4045539/
+
 https://www.pexels.com/photo/stainless-steel-close-wrench-on-spanner-210881/
+
 https://www.pexels.com/photo/people-at-the-beach-3925081/
+
 https://www.pexels.com/photo/all-cast-dumbbell-placed-on-marble-table-4397838/
+
 https://www.pexels.com/photo/man-standing-beside-wall-2364605/
+
 https://www.shutterstock.com/image-photo/healthy-lifestyle-middle-aged-man-runner-690872596
+
 https://www.pexels.com/photo/pensive-lady-watching-movie-on-laptop-at-home-4468138/
+
 https://www.pexels.com/photo/pensive-lady-watching-movie-on-laptop-at-home-4468138/
 
 # References
+
 https://www.health.harvard.edu/blog/healthy-lifestyle-5-keys-to-a-longer-life-2018070514186
+
 http://www.kznhealth.gov.za/healthyliving.pdf
+
 https://www.nami.org/getattachment/Extranet/NAMI-State-Organization-and-NAMI-Affiliate-Leaders/Awareness/AKA/Mental-Health-Fact-Sheets/Maintaining-a-Healthy-Lifestyle.pdf
+
 https://www.canada.ca/fr/sante-canada/services/comprendre-etiquetage-aliments/tableau-valeur-nutritive.html 
+
 https://www.cdc.gov/healthyweight/healthy_eating/index.html 
+
 https://www.healthlinkbc.ca/health-topics/cannabis-your-health 
+
 https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5526-2 
+
 https://toronto.cmha.ca/documents/benefits-of-good-mental-health/ 
 
