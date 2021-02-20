@@ -104,7 +104,10 @@ This user is familiar with technology and uses many apps to explore how they can
 # Sketches
 
 # Colour Palette
- 
+![Colour Palette](https://github.com/daniela-venuta/SOEN357-Mini-Project/blob/daniela-venuta-patch-1/colour%20palette.png)
+
+The main colours for our applications are all purple hues. These colours were chosen for their wide appeal, and because purple is both [calming, and energetic] as it has hues of both blue and red. Users will be spending a lot of time on the application so it was important to select colours that would not cause eye strain due to their brightness. It goes well with both the calmer uses such as sleep tracking and screen time tracking, but also provides the energy needed to track workouts and fitness.
+
 # Wireframes
 
  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbJJuujpniYeyRokV3QwjJJ%2FWireframes-and-Prototypes" allowfullscreen></iframe>
