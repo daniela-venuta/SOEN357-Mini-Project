@@ -15,24 +15,34 @@ The first step in our reaserch was understand the problem that our potential use
 We were tasked with creating an app that would encourage healthy screen habits and a healthy lifestyle. Starting off with our reasearch, we were able to break down a healthy lifestyle into the following main factors:
 
 <details>
-  <summary> #### Healthy Diet and Body Weight </summary>
-    
-  A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/). Being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
+  <summary><strong>Healthy Diet and Body Weight</strong></summary>
+  
+A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/). Being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
 </details>
 
+<details>
+  <summary><strong>Physical Activity</strong><summary>
 
-#### Physical Activity
 Being active is an important part of a healthy lifestyle as it helps growth in children and, similarly to a healthy diet, helps deter various chronic diseases including cancer, type 2 diabetes and hypertension.
+</details>
 
-#### Mental Health
+<details>
+  <summary><strong>Mental Health</strong><summary>
+    
 The World Health Organisation defines mental health as a "state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community". Mental Health and Physical health are closely related and being in a healthy mental state contributes to being healthy physically.
+</details>
 
-#### Good Sleep
-
+<details>
+  <summary><strong>Good Sleep</strong><summary>
+    
 Sleep, like nutrition, is the basis of a healthy lifestyle. It ensures your body has enough energy to work properly throughout the day. The concept of good sleep is relatively new as we discovered how better sleeping habits and sleeping posture can help us achieve a better rest and therefore, a healthier lifestyle.
+</details>
 
-#### Foreign Substances
+<details>
+  <summary><strong>Foreign Substances consumption</strong><summary>
+    
 Smoking of any sort is especially bad for lungs whether it is tobacco, weed or another substance. Alcohol on the other hand is ok in moderation but overdose can lead to a decline in mental faculties and organ failure.
+</details>
 
 ### What are the impacts of COVID-19 on health?
 The COVID-19 pandemic has had a huge impact on physical and mental health. Over the course of the pandemic situation, we have seen a [marked increase in technology consumption](https://www.bluefountainmedia.com/blog/impact-covid-19-future-technology) for work, but also for entertainment, especially regarding streaming content like Netflix. Technology has also become the primary means of communication with quarantining measures through applications like [Zoom which has exploded in popularity](https://www.dallasnews.com/business/2020/11/20/7-ways-technology-is-helping-small-businesses-during-covid-19/) , Microsoft Teams and social media. Technology has also helped [track the spread of the COVID-19 virus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html) to help keep the public safe and informed, as well as [helping hospitals manage data related to the virus](https://www2.deloitte.com/us/en/pages/consulting/solutions/convergehealth-connect-for-crisis-response-health-care.html). Since people are more unable to go out, there has also been a transition of health services, [counseling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161478/), for example, that has moved online.
