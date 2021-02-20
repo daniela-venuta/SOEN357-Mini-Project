@@ -9,11 +9,11 @@ A healthy diet helps take in the right amount of nutrient and keep a balanced bo
 #### Physical Activity
 Being active is an important part of a healthy lifestyle as it helps growth in children and, similarly to a healthy diet, helps deter various chronic diseases including cancer, type 2 diabetes and hypertension.
 #### Mental Health
-
-  - Mental health
-  - Social habits
-  - Sleep habits
-  - Alcohol/Smoking/Drug habits
+The importance of mental health is a recent concept. Mental health and physical health are actually 2 concepts that are like ying and yang: different yet ever so close and intermingled in each other. The World Health Organisation defines mental health as a "state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community". This is influenced by multiple factors other than a healthy lifestyle such as stress and/or social life. Being in a healthy mental state is also primordial to having a healthy lifestyle.
+#### Good Sleep
+Sleep, like nutrition, is the basis of a healthy lifestyle. It ensures your body has enough energy to work properly throughout the day. The concept of good sleep is relatively new as we discovered how better sleeping habits and sleeping posture can help us achieve a better rest and therefore, a healthier lifestyle.
+#### Foreign Substances
+Smoking of any sort is especially bad for lungs whether it is tobacco, weed or another substance. Alcohol on the other hand is ok in moderation but overdose can lead to a decline in mental faculties and organ failure.
   
 ### What are the impacts of COVID-19 on health?
   The COVID-19 pandemic
