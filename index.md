@@ -9,7 +9,7 @@ We were tasked with creating an app that would encourage healthy screen habits a
 <details>
   <summary> #### Healthy Diet and Body Weight </summary>
     
-  A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide] (https://food-guide.canada.ca/en/). Being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
+  A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/). Being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
 </details>
 
 #### Physical Activity
