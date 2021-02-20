@@ -24,7 +24,7 @@ Technology has the capacity to both hinder and improve our health overall, depen
 #### Negative Health Effects
 According to [Jon Jonson in Medical News Today](https://www.medicalnewstoday.com/articles/negative-effects-of-technology#physical-health-effects), increased use of technology, especially social media sites can lead to increased feelings of depression, anxiety and isolation. Other physical effects include eyestrain due to long hours spent on the screen, and the brightness of these screens, as well as sleep problems caused by blue lights. Finally, perhaps the most evident negative consquence that technology has on our health is the role it plays in limiting the time we take for physical activity, which leads to a large quantity of other detrimental health effects.
 
-#### Postive Health Effects
+#### Positive Health Effects
 However, many of these effects can be mitigated with the proper techniques to make technology as beneficial for human health as possible in all regards. By using notifications, timers, and technology such as Fitbits and VR, we can bring health and activity into the realm of technology. Moreover, [A study conducted by ???](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6912378/) showed that using technology as a tool to measure health metrics like heart rate and calories lead to increased physical activity, and that the ability to link these metrics to social media to share helped to improve physical acitivity rates. Finally, technology can play an indirect impact in increasing physical activity, and thereforre health, by providing information about ways to access spaces to exercise as accessibility, safety, and aesthetics all play a role in how likely someone is to engage in physical activity. Technology also allows healthcare and health tracking to be more personalized than ever, allowing plans to be tailored to an individual, to find what is best for them. This has also lead to the rise of [health hacking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147743/) that lets people collect and analyze their own data to take their health into their own hands.
   
 ## Market Research
@@ -67,27 +67,35 @@ The final section evaluated the user's experience with technology and how they i
 
 As can be seen in the charts below, most of our respondents are very active on social media, as it takes up more than 2 hours of their day, making the inclusion of social media into our application an interesting path to explore, however, the results are much more mixed in terms of whether they would like to see the activity of others shared.
 
-![Social Media Use](./Social%20Media%20Habits.png);
-![Social Activity](./social%20activity.png);
+![Social Media Use](./Social%20Media%20Habits.png)
+![Social Activity](./social%20activity.png)
  
 ## User Personas
 The following user personas were derived from the results of the survey to encompass the wide range of possible users and how our application can serve their needs. We decided to make four user personas to properly distinguish between the different types of users that answered our survey, focusing on their own goals and experience with technology, as well as the motivations that would encourage them to use our application.
  
- ### User Persona 1
+ ### The "Fit Dad"
  
  ![a](./Mini%20Project%20-%20Frame%201.jpg)
  
- ### User Persona 2
+This user persona is derived from older age groups in our surveys, that are incredibly active and are focused on hacking their health data to improve their athletic performance and overall health. Getting analytics back is very important to them, and want to be able to access this information easily to put it to good use. They also want to challenge each other, which is why social features are important to them.
+
+ ### The "Fitness Enthusiast"
  
  ![a](./Mini%20Project%20-%20Frame%202.jpg)
  
- ### User Persona 3
+This personais formed from a tech savvy younger age group who works out frequently and is quite familiar with technology. They want applications to be customizable to their needs to keep their health schedule on track, and are motivated by seeing history and improvement in terms of their overall fitness. They are extroverted but still concerned about privacy, so their data is important to them, but they are less likely to share it on social apps.
+
+ ### The "Working Mom"
  
  ![a](./Mini%20Project%20-%20Frame%203.jpg)
  
- ### User Persona 4
+This persona is a that wants to keep track of specific health habits for themselves, and take that information with them to medical appointments, they are more focused on certain features like screen time, and food and sleep tracking, and are less familiar with the concept of a super app. They want to see results from their tracking, but are not on a specific plan or schedule.
+ 
+ ### The "Casual User"
 
  ![a](./Mini%20Project%20-%20Frame%204.jpg)
+ 
+This user is familiar with technology and uses many apps to explore how they can benefit their health but can benefit from having them all under one umbrella. They are introverted, and conscious of themselves, and want an easy way to keep track of all the apps they use.
  
 ## Journey Map
 
