@@ -61,7 +61,10 @@ This section of the survey highlight several important feelings that a majority 
 The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.
 
 #### Main findings
+As can be seen in the charts below, most of our respondents are very active on social media, as it takes up more than 2 hours of their day, making the inclusion of social media into our application an interesting path to explore, however, the results are much more mixed in terms of whether they would like to see the activity of others shared.
 
+![Social Media Use](./Social%20Media%20Habits.png);
+![Social Activity](./social%20activity.png);
  
 ## User Personas
 The following user personas were derived from the results of the survey to encompass the wide range of possible users and how our application can serve their needs. We decided to make four user personas to properly distinguish between the different types of users that answered our survey, focusing on their own goals and experience with technology, as well as the motivations that would encourage them to use our application.
