@@ -1,4 +1,6 @@
 # Research
+{% include button.html url="./test.md" %}
+[hello world](./test.md)
 ## Understanding the Problem
 The first step in our reaserch was understand the problem that our potential users are faced with. We tackled the problem by in turn asking ourselves three questions which to better understand the use of technology for health in our current time:
 
