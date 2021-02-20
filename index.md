@@ -188,7 +188,8 @@ Below is the prototype of the application, it is not meant to be a fully functio
 
 The development of these user interface and user experience prototypes allowed us to consider a wide variety of users and their needs. It was important for our application to provide a wide variety of services that can be useful both for hardcore health and fitness enthusiasts as well as more casual users and provide the ability to customize the app to their prefered experience. For this reason, all basic services can be accessed easily through the main hub, but those who want more are free to explore different pages that can provide them with more tailored services. It also gives users flexibility in their privacy and to share only what they want to with the world. OmniHealth is an application that improves the overall health and wellbeing of its users by letting them be more conscious of their screentime, and by gathering under one app all the main factors of health: physical, mental, and social.
 
-# Picture Sources
+<details>
+  <summary><strong style="font-size:2em">Picture Sources</strong></summary>
 
 https://www.pexels.com/photo/photo-of-smartphone-near-decorative-plant-4065906/
 
@@ -210,7 +211,16 @@ https://www.pexels.com/photo/pensive-lady-watching-movie-on-laptop-at-home-44681
 
 https://www.pexels.com/photo/pensive-lady-watching-movie-on-laptop-at-home-4468138/
 
-# References
+</details>
+<br>
+<details>
+  <summary><strong style="font-size:2em">References</strong></summary>
+
+“Negative effects of technology: Psychological, social, and health,” Feb. 25, 2020. https://www.medicalnewstoday.com/articles/negative-effects-of-technology (accessed Feb. 20, 2021).
+
+Z. Gao and J. E. Lee, “Emerging Technology in Promoting Physical Activity and Health: Challenges and Opportunities,” J Clin Med, vol. 8, no. 11, Nov. 2019, doi: 10.3390/jcm8111830.
+
+H. Thimbleby, “Technology and the Future of Healthcare,” J Public Health Res, vol. 2, no. 3, Dec. 2013, doi: 10.4081/jphr.2013.e28.
 
 https://www.health.harvard.edu/blog/healthy-lifestyle-5-keys-to-a-longer-life-2018070514186
 
@@ -227,4 +237,16 @@ https://www.healthlinkbc.ca/health-topics/cannabis-your-health
 https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5526-2 
 
 https://toronto.cmha.ca/documents/benefits-of-good-mental-health/ 
+
+https://www.bluefountainmedia.com/blog/impact-covid-19-future-technology 
+
+https://www.dallasnews.com/business/2020/11/20/7-ways-technology-is-helping-small-businesses-during-covid-19/
+
+https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html 
+
+https://www2.deloitte.com/us/en/pages/consulting/solutions/convergehealth-connect-for-crisis-response-health-care.html 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161478/ 
+
+</details>
 
