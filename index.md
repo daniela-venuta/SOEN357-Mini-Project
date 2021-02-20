@@ -3,10 +3,13 @@
 The first step in our reaserch was understand the problem that our potential users are faced with. We tackled the problem by in turn asking ourselves three questions which to better understand the use of technology for health in our current time:
 
 ### What is a healthy lifestyle?
-  Based off our reasearch, we were able to determine the main factors contributing a healthy lifestyle:
-  - Diet
-  - Physical Activity
-  - Body weight
+  We were tasked with creating an app that would encourage healthy screen habits and a healthy lifestyle. Starting off with our reasearch, we were able to break down a healthy lifestyle into the following main factors:
+#### Healthy Diet and Body Weight
+A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/) but in brief, it includes eating a balanced amount of fruits, vegetables, proteins and grains. The guide also recommends water as a choice beverage over other alternatives. This in turn helps you maintain a balanced body weight as being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
+#### Physical Activity
+Being active is an important part of a healthy lifestyle as it helps growth in children and, similarly to a healthy diet, helps deter various chronic diseases including cancer, type 2 diabetes and hypertension.
+#### Mental Health
+
   - Mental health
   - Social habits
   - Sleep habits
