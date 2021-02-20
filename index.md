@@ -35,7 +35,7 @@ Sleep, like nutrition, is the basis of a healthy lifestyle. It ensures your body
     
 Smoking of any sort is especially bad for lungs whether it is tobacco, weed or another substance. Alcohol on the other hand is ok in moderation but overdose can lead to a decline in mental faculties and organ failure.
 </details>
-<hr>
+<br>
 
 ### What are the impacts of COVID-19 on health?
 The COVID-19 pandemic has had a huge impact on physical and mental health. Over the course of the pandemic situation, we have seen a [marked increase in technology consumption](https://www.bluefountainmedia.com/blog/impact-covid-19-future-technology) for work, but also for entertainment, especially regarding streaming content like Netflix. Technology has also become the primary means of communication with quarantining measures through applications like [Zoom which has exploded in popularity](https://www.dallasnews.com/business/2020/11/20/7-ways-technology-is-helping-small-businesses-during-covid-19/) , Microsoft Teams and social media. Technology has also helped [track the spread of the COVID-19 virus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html) to help keep the public safe and informed, as well as [helping hospitals manage data related to the virus](https://www2.deloitte.com/us/en/pages/consulting/solutions/convergehealth-connect-for-crisis-response-health-care.html). Since people are more unable to go out, there has also been a transition of health services, [counseling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161478/), for example, that has moved online.
@@ -92,7 +92,7 @@ The questions were designed to understand what our potential users found to be t
 <img src="assets\Survey-socialMediaHabits.png" alt="social media use">
 <img src="assets\Survey-socialActivity.png" alt="social life">
 </details>
-<hr>
+<br>
  
 ## User Personas and Journey Maps
 ### User Personas
