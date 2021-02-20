@@ -1,15 +1,16 @@
 # Research
+<button name="button" onclick="./index.md">Click me</button>
 ## Understanding the Problem
 The first step in our reaserch was understand the problem that our potential users are faced with. We tackled the problem by in turn asking ourselves three questions which to better understand the use of technology for health in our current time:
 
 ### What is a healthy lifestyle?
 We were tasked with creating an app that would encourage healthy screen habits and a healthy lifestyle. Starting off with our reasearch, we were able to break down a healthy lifestyle into the following main factors:
 #### Healthy Diet and Body Weight
-A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/) but in brief, it includes eating a balanced amount of fruits, vegetables, proteins and grains. The guide also recommends water as a choice beverage over other alternatives. This in turn helps you maintain a balanced body weight as being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
+A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/). Being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
 #### Physical Activity
 Being active is an important part of a healthy lifestyle as it helps growth in children and, similarly to a healthy diet, helps deter various chronic diseases including cancer, type 2 diabetes and hypertension.
 #### Mental Health
-The importance of mental health is a recent concept. Mental health and physical health are actually 2 concepts that are like ying and yang: different yet ever so close and intermingled in each other. The World Health Organisation defines mental health as a "state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community". This is influenced by multiple factors other than a healthy lifestyle such as stress and/or social life. Being in a healthy mental state is also primordial to having a healthy lifestyle.
+The World Health Organisation defines mental health as a "state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community". Mental Health and Physical health are closely related and being in a healthy mental state contributes to being healthy physically.
 #### Good Sleep
 Sleep, like nutrition, is the basis of a healthy lifestyle. It ensures your body has enough energy to work properly throughout the day. The concept of good sleep is relatively new as we discovered how better sleeping habits and sleeping posture can help us achieve a better rest and therefore, a healthier lifestyle.
 #### Foreign Substances
@@ -24,7 +25,7 @@ Technology has the capacity to both hinder and improve our health overall, depen
 #### Negative Health Effects
 According to [Jon Jonson in Medical News Today](https://www.medicalnewstoday.com/articles/negative-effects-of-technology#physical-health-effects), increased use of technology, especially social media sites can lead to increased feelings of depression, anxiety and isolation. Other physical effects include eyestrain due to long hours spent on the screen, and the brightness of these screens, as well as sleep problems caused by blue lights. Finally, perhaps the most evident negative consquence that technology has on our health is the role it plays in limiting the time we take for physical activity, which leads to a large quantity of other detrimental health effects.
 
-#### Postive Health Effects
+#### Positive Health Effects
 However, many of these effects can be mitigated with the proper techniques to make technology as beneficial for human health as possible in all regards. By using notifications, timers, and technology such as Fitbits and VR, we can bring health and activity into the realm of technology. Moreover, [A study conducted by ???](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6912378/) showed that using technology as a tool to measure health metrics like heart rate and calories lead to increased physical activity, and that the ability to link these metrics to social media to share helped to improve physical acitivity rates. Finally, technology can play an indirect impact in increasing physical activity, and thereforre health, by providing information about ways to access spaces to exercise as accessibility, safety, and aesthetics all play a role in how likely someone is to engage in physical activity. Technology also allows healthcare and health tracking to be more personalized than ever, allowing plans to be tailored to an individual, to find what is best for them. This has also lead to the rise of [health hacking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147743/) that lets people collect and analyze their own data to take their health into their own hands.
   
 ## Market Research
@@ -57,10 +58,7 @@ This section surveyed how COVID-19 impacted the survey taker's personal health a
  ![Impact on Technology Use](assets\Survey-covidAndTech.png)
  ![Impact on Health](assets\Survey-covidImpactOnHealth.png)
 
-#### Main findings
-
-### Experience with Technology and Fitness Applications
-The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.
+This section of the survey highlight several important feelings that a majority of the respondents felt accross all age groups. Overall, the pandmic had a significant impact on how they perceived their overall health. Most participants noticed an increase in their technology use, and felt that the pandemic was hindering their ability to go outside to get physical activity/ They also felt that their ability to socialize, exciize and maintain their social needs were mostly impacted by the pandemic. The graph below show the findings across all age groups.
 
 ### Experience with Technology and Fitness Applications
 The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.
@@ -80,19 +78,22 @@ The following journey maps were derived from the created user personas, centered
  ### The "Fit Dad"
  ![NicolasGace-Persona](assets\NicolasGace-persona.jpg)
  ![NicolasGace-JourneyMap](assets\NicolasGace-JourneyMap.jpg)
+ This user persona is derived from older age groups in our surveys, that are incredibly active and are focused on hacking their health data to improve their athletic performance and overall health. Getting analytics back is very important to them, and want to be able to access this information easily to put it to good use. They also want to challenge each other, which is why social features are important to them.
  
  ### The "Fitness Enthousiast"
  ![MarcusDantin-Persona](assets\MarcusDantin-persona.jpg)
  ![MarcusDantin-JourneyMap](assets\MarcusDantin-JourneyMap.jpg)
+ This persona is formed from a tech savvy younger age group who works out frequently and is quite familiar with technology. They want applications to be customizable to their needs to keep their health schedule on track, and are motivated by seeing history and improvement in terms of their overall fitness. They are extroverted but still concerned about privacy, so their data is important to them, but they are less likely to share it on social apps.
  
  ### The "Working Mom"
  ![SylviaSmith-Persona](assets\SylviaSmith-persona.jpg)
  ![SylviaSmith-JourneyMap](assets\SylviaSmith-JourneyMap.jpg)
- 
+This persona is a that wants to keep track of specific health habits for themselves, and take that information with them to medical appointments, they are more focused on certain features like screen time, and food and sleep tracking, and are less familiar with the concept of a super app. They want to see results from their tracking, but are not on a specific plan or schedule.
+
  ### The "Casual User"
  ![KatelynRoss-Persona](assets\KatelynRoss-persona.jpg)
  ![KatelynRoss-JourneyMap](assets\KatelynRoss-JourneyMap.jpg)
-
+This user is familiar with technology and uses many apps to explore how they can benefit their health but can benefit from having them all under one umbrella. They are introverted, and conscious of themselves, and want an easy way to keep track of all the apps they use.
 # Sketches
 
 # Colour Palette
