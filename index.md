@@ -3,29 +3,26 @@
 The first step in our reaserch was understand the problem that our potential users are faced with. We tackled the problem by in turn asking ourselves three questions which to better understand the use of technology for health in our current time:
 
 ### What is a healthy lifestyle?
-  We were tasked with creating an app that would encourage healthy screen habits and a healthy lifestyle. Starting off with our reasearch, we were able to break down a healthy lifestyle into the following main factors:
-#### Healthy Diet and Body Weight
-A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/) but in brief, it includes eating a balanced amount of fruits, vegetables, proteins and grains. The guide also recommends water as a choice beverage over other alternatives. This in turn helps you maintain a balanced body weight as being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
-#### Physical Activity
-Being active is an important part of a healthy lifestyle as it helps growth in children and, similarly to a healthy diet, helps deter various chronic diseases including cancer, type 2 diabetes and hypertension.
-#### Mental Health
-
+  Based off our reasearch, we were able to determine the main factors contributing a healthy lifestyle:
+  - Diet
+  - Physical Activity
+  - Body weight
   - Mental health
   - Social habits
   - Sleep habits
   - Alcohol/Smoking/Drug habits
   
 ### What are the impacts of COVID-19 on health?
-  The COVID-19 pandemic
-  
+The COVID-19 pandemic has had a huge impact on physical and mental health. Over the course of the pandemic situation, we have seen a [marked increase in technology consumption](https://www.bluefountainmedia.com/blog/impact-covid-19-future-technology) for work, but also for entertainment, especially regarding streaming content like Netflix. Technology has also become the primary means of communication with quarantining measures through applications like [Zoom which has exploded in popularity](https://www.dallasnews.com/business/2020/11/20/7-ways-technology-is-helping-small-businesses-during-covid-19/) , Microsoft Teams and social media. Technology has also helped [track the spread of the COVID-19 virus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html) to help keep the public safe and informed, as well as [helping hospitals manage data related to the virus](https://www2.deloitte.com/us/en/pages/consulting/solutions/convergehealth-connect-for-crisis-response-health-care.html). Since people are more unable to go out, there has also been a transition of health services, [counseling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161478/), for example, that has moved online.
+
 ### What are the impacts of technology on health?
 Technology has the capacity to both hinder and improve our health overall, depending on how we use it.
 
-## Negative Health Effects
+#### Negative Health Effects
 According to [Jon Jonson in Medical News Today](https://www.medicalnewstoday.com/articles/negative-effects-of-technology#physical-health-effects), increased use of technology, especially social media sites can lead to increased feelings of depression, anxiety and isolation. Other physical effects include eyestrain due to long hours spent on the screen, and the brightness of these screens, as well as sleep problems caused by blue lights. Finally, perhaps the most evident negative consquence that technology has on our health is the role it plays in limiting the time we take for physical activity, which leads to a large quantity of other detrimental health effects.
 
-## Postive Health Effects
-However, many of these effects can be mitigated with the proper techniques to make technology as beneficial for human health as possible in all regards. By using notifications, timers, and technology such as Fitbits and VR, we can bring health and activity into the realm of technology. Moreover, [A study conducted by ???](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6912378/) showed that using technology as a tool to measure health metrics like heart rate and calories lead to increased physical activity, and that the ability to link these metrics to social media to share helped to improve physical acitivity rates. Finally, technology can play an indirect impact in increasing physical activity, and thereforre health, by providing information about ways to access spaces to exercise as accessibility, safety, and aesthetics all play a role in how likely someone is to engage in physical activity. Technology also allows healthcare and health tracking to be more personalized than ever, allowing plans to be tailored to an individual, to find what is best for them. This has also lead to the rise of [health hacking](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147743/) that lets people collect and analyze their own data to take their health into their own hands.
+#### Postive Health Effects
+However, many of these effects can be mitigated with the proper techniques to make technology as beneficial for human health as possible in all regards. By using notifications, timers, and technology such as Fitbits and VR, we can bring health and activity into the realm of technology. Moreover, [A study conducted by ???](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6912378/) showed that using technology as a tool to measure health metrics like heart rate and calories lead to increased physical activity, and that the ability to link these metrics to social media to share helped to improve physical acitivity rates. Finally, technology can play an indirect impact in increasing physical activity, and thereforre health, by providing information about ways to access spaces to exercise as accessibility, safety, and aesthetics all play a role in how likely someone is to engage in physical activity. Technology also allows healthcare and health tracking to be more personalized than ever, allowing plans to be tailored to an individual, to find what is best for them. This has also lead to the rise of [health hacking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147743/) that lets people collect and analyze their own data to take their health into their own hands.
   
 ## Market Research
 
