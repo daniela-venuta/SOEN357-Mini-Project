@@ -3,7 +3,7 @@
 The first step in our reaserch was understand the problem that our potential users are faced with. We tackled the problem by in turn asking ourselves three questions which to better understand the use of technology for health in our current time:
 
 ### What is a healthy lifestyle?
-  We were tasked with creating an app that would encourage healthy screen habits and a healthy lifestyle. Starting off with our reasearch, we were able to break down a healthy lifestyle into the following main factors:
+We were tasked with creating an app that would encourage healthy screen habits and a healthy lifestyle. Starting off with our reasearch, we were able to break down a healthy lifestyle into the following main factors:
 #### Healthy Diet and Body Weight
 A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/) but in brief, it includes eating a balanced amount of fruits, vegetables, proteins and grains. The guide also recommends water as a choice beverage over other alternatives. This in turn helps you maintain a balanced body weight as being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
 #### Physical Activity
@@ -29,7 +29,7 @@ However, many of these effects can be mitigated with the proper techniques to ma
   
 ## Market Research
 Currently there is no app on the market that both monitors lifestyle and screen time. What most people do is that they use a collection of apps to fill all the functions they need so for example, they would use fitbit to improve their physical health in conjunction with apple fitness+ at the gym and lose it to build up healthy meals. Here follows a Venn diagram displaying what apps exist on the market and what they cover:
-![Venn Diagram](./Market%20Research%20-%20Frame%201.jpg)
+![Venn Diagram](assets\MarketResearch-vennDiagram.jpg)
 We can see that most apps specialize with no true super app which makes it so users are forced to use multiple apps together. Also note that there is no lifestyle app that covers screen time.
 
 ## Surveys
@@ -46,16 +46,16 @@ There was a total of 45 respondents in these sections. Over 88% of or respondent
 ### Healthy lifestyle
 This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.
 
-![Factor Importance](./Healthy%20Lifestyle%20-%20importance%20of%20factors.png)
+![Factor Importance](assets\Survey-lifestyleTechUse.png)
 
 From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.
 
 ### Impacts of COVID-19
 This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.
 
- ![Impact on Outdoor Activity](./covid%20and%20outdoors.png)
- ![Impact on Technology Use](./covid%20and%20tech.png)
- ![Impact on Health](./Impact%20of%20Covid%20on%20Health.png)
+ ![Impact on Outdoor Activity](assets\Survey-covidAndOutdoors.png)
+ ![Impact on Technology Use](assets\Survey-covidAndTech.png)
+ ![Impact on Health](assets\Survey-covidImpactOnHealth.png)
 
 #### Main findings
 
@@ -67,29 +67,31 @@ The final section evaluated the user's experience with technology and how they i
 
 As can be seen in the charts below, most of our respondents are very active on social media, as it takes up more than 2 hours of their day, making the inclusion of social media into our application an interesting path to explore, however, the results are much more mixed in terms of whether they would like to see the activity of others shared.
 
-![Social Media Use](./Social%20Media%20Habits.png);
-![Social Activity](./social%20activity.png);
+![Social Media Use](assets\Survey-socialMediaHabits.png)
+![Social Activity](assets\Survey-socialActivity.png)
  
-## User Personas
+## User Personas and Journey Maps
+### User Personas
 The following user personas were derived from the results of the survey to encompass the wide range of possible users and how our application can serve their needs. We decided to make four user personas to properly distinguish between the different types of users that answered our survey, focusing on their own goals and experience with technology, as well as the motivations that would encourage them to use our application.
- 
- ### User Persona 1
- 
- ![a](./Mini%20Project%20-%20Frame%201.jpg)
- 
- ### User Persona 2
- 
- ![a](./Mini%20Project%20-%20Frame%202.jpg)
- 
- ### User Persona 3
- 
- ![a](./Mini%20Project%20-%20Frame%203.jpg)
- 
- ### User Persona 4
 
- ![a](./Mini%20Project%20-%20Frame%204.jpg)
+### Journey Maps
+The following journey maps were derived from the created user personas, centered around different aspects of OmniHealth. Hashing out these journey maps for specific user personas helped focus put us in the mindset of our own clients, focaliszing on the user experience. This allowed to discern any wants or annoyances within the client, and to then make sure the application had functionalities addressed them.
  
-## Journey Map
+ ### The "Fit Dad"
+ ![NicolasGace-Persona](assets\NicolasGace-persona.jpg)
+ ![NicolasGace-JourneyMap](assets\NicolasGace-JourneyMap.jpg)
+ 
+ ### The "Fitness Enthousiast"
+ ![MarcusDantin-Persona](assets\MarcusDantin-persona.jpg)
+ ![MarcusDantin-JourneyMap](assets\MarcusDantin-JourneyMap.jpg)
+ 
+ ### The "Working Mom"
+ ![SylviaSmith-Persona](assets\SylviaSmith-persona.jpg)
+ ![SylviaSmith-JourneyMap](assets\SylviaSmith-JourneyMap.jpg)
+ 
+ ### The "Casual User"
+ ![KatelynRoss-Persona](assets\KatelynRoss-persona.jpg)
+ ![KatelynRoss-JourneyMap](assets\KatelynRoss-JourneyMap.jpg)
 
 # Sketches
 
