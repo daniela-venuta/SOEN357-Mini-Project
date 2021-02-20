@@ -41,6 +41,8 @@ There was a total of 45 respondents in these sections. Over 88% of or respondent
 ### Healthy lifestyle
 This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective.
   
+![Current use of fitness applications from respondents](./current%20tech%20use.png)
+  
 #### Main findings
     MINH HERE!
 
