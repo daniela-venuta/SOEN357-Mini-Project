@@ -35,6 +35,7 @@ We were tasked with creating an app that would encourage healthy screen habits a
     
 <p>Smoking of any sort is especially bad for lungs whether it is tobacco, weed or another substance. Alcohol on the other hand is ok in moderation but overdose can lead to a decline in mental faculties and organ failure.</p>
 </details>
+<br>
 
 ### What are the impacts of COVID-19 on health?
 The COVID-19 pandemic has had a huge impact on physical and mental health. Over the course of the pandemic situation, we have seen a [marked increase in technology consumption](https://www.bluefountainmedia.com/blog/impact-covid-19-future-technology) for work, but also for entertainment, especially regarding streaming content like Netflix. Technology has also become the primary means of communication with quarantining measures through applications like [Zoom which has exploded in popularity](https://www.dallasnews.com/business/2020/11/20/7-ways-technology-is-helping-small-businesses-during-covid-19/) , Microsoft Teams and social media. Technology has also helped [track the spread of the COVID-19 virus](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html) to help keep the public safe and informed, as well as [helping hospitals manage data related to the virus](https://www2.deloitte.com/us/en/pages/consulting/solutions/convergehealth-connect-for-crisis-response-health-care.html). Since people are more unable to go out, there has also been a transition of health services, [counseling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161478/), for example, that has moved online.
@@ -91,6 +92,7 @@ The questions were designed to understand what our potential users found to be t
 <img src="assets\Survey-socialMediaHabits.png" alt="social media use">
 <img src="assets\Survey-socialActivity.png" alt="social life">
 </details>
+<br>
  
 ## User Personas and Journey Maps
 ### User Personas
@@ -135,43 +137,44 @@ The mockup is a collection of 15 screens that are combined to create our super a
 
 <details>
   <summary><strong>Login Page and Account Creation</strong></summary>
-  <p>The login page is design to be simple and hassle free, it allows users to save and keep track of their personal info in a secure manner, as privacy was a main concern for many users.</p>
+  <hr><p>The login page is design to be simple and hassle free, it allows users to save and keep track of their personal info in a secure manner, as privacy was a main concern for many users.</p>
 </details>
 
 <details>
   <summary><strong>Home Navigation Screen</strong></summary>
-  <p>This screen is the portal to all the services that are provided by the super app. From here, we can access the main services: Screen Tracking, Food Tracking, Exercise Tracking, Friends and Messaging, Sleep Tracking, and Account Customization.</p>
+  <hr><p>This screen is the portal to all the services that are provided by the super app. From here, we can access the main services: Screen Tracking, Food Tracking, Exercise Tracking, Friends and Messaging, Sleep Tracking, and Account Customization.</p>
 </details>
 
 <details>
   <summary><strong>Screentime Tracking</strong></summary>
-  <p>This service is split up into many different screens. The first page that a user lands on provides an overview of how many hours they have spent on each of their apps over the course of the week. They can click on this overview to get a more detailed breakdown of hours per day in a graph and compare it to the goal they have set for themselves. From here, they can also choose to create work modes to block applications, depending on what they want to focus on. This allows users to focus on their work, themselves, their exercise, or whatever else they may be doing by disabling apps that might be distracting at that time.</p>
+  <hr><p>This service is split up into many different screens. The first page that a user lands on provides an overview of how many hours they have spent on each of their apps over the course of the week. They can click on this overview to get a more detailed breakdown of hours per day in a graph and compare it to the goal they have set for themselves. From here, they can also choose to create work modes to block applications, depending on what they want to focus on. This allows users to focus on their work, themselves, their exercise, or whatever else they may be doing by disabling apps that might be distracting at that time.</p>
 </details>
 
 <details>
   <summary><strong>Exercise Tracking</strong></summary>
-  <p>The exercise tracking screen is a simple interface that provides a step counter but goes further into pages for finding locations, or tracking cardio or strength exercises. They can also get map data from their location to learn about how crowded certain exercise spots are and determine what measures to take to protect themselves from COVID-19 and assess risk. This service was provided because of the high number of people in the survey that reported that anxiety over COVID-19 has prevented them from seeking outdoor physical activity. The detailed logging in the exercise subscreens allow fitness enthusiasts to keep track of their past workouts and record important metrics.</p>
+  <hr><p>The exercise tracking screen is a simple interface that provides a step counter but goes further into pages for finding locations, or tracking cardio or strength exercises. They can also get map data from their location to learn about how crowded certain exercise spots are and determine what measures to take to protect themselves from COVID-19 and assess risk. This service was provided because of the high number of people in the survey that reported that anxiety over COVID-19 has prevented them from seeking outdoor physical activity. The detailed logging in the exercise subscreens allow fitness enthusiasts to keep track of their past workouts and record important metrics.</p>
 </details>
 
 <details>
   <summary><strong>Sleep Tracking</strong></summary>
-  <p>This service allows users to rank their quality of sleep and number of hours slept. It's calendar view allows easy long term tracking and shows how your habits have influenced your sleep over long periods of time.</p>
+  <hr><p>This service allows users to rank their quality of sleep and number of hours slept. It's calendar view allows easy long term tracking and shows how your habits have influenced your sleep over long periods of time.</p>
 </details>
 
 <details>
   <summary><strong>Food Tracking</strong></summary>
-  <p>This service provides basic calorie counting, and meal tracking and can communicate with the internet to help find foods and their nutritional content to log.</p>
+  <hr><p>This service provides basic calorie counting, and meal tracking and can communicate with the internet to help find foods and their nutritional content to log.</p>
 </details>
 
 <details>
   <summary><strong>Friends and Messaging</strong></summary>
-  <p>These feature was designed to incorporate social aspects into our application and it was incredibly important to many people who responded in the survey noted how important social features are, and social interaction is an important component of health. It also allows sharing your activity to your in-app friends to keep the spirit of competition alive for those who think this is important like those who fit the "Fit Dad" archetype.</p>
+  <hr><p>These feature was designed to incorporate social aspects into our application and it was incredibly important to many people who responded in the survey noted how important social features are, and social interaction is an important component of health. It also allows sharing your activity to your in-app friends to keep the spirit of competition alive for those who think this is important like those who fit the "Fit Dad" archetype.</p>
 </details>
 
 <details>
   <summary><strong>Account Settings and Linking</strong></summary>
-  <p>This screen allows you to customize any settings to your will, and turn off any social features if you want your data to remain private. It also allows you to connect different to different social apps like Facebook, Instagram, Google and Twitter to share your progress and acheivements. It is also through here that users can generate personalized reports based off of the metrics that have been recorded in the application.</p>
+  <hr><p>This screen allows you to customize any settings to your will, and turn off any social features if you want your data to remain private. It also allows you to connect different to different social apps like Facebook, Instagram, Google and Twitter to share your progress and acheivements. It is also through here that users can generate personalized reports based off of the metrics that have been recorded in the application.</p>
 </details>
+<br>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLXF5BgSzYSb7XUnbkNRak5%2FMockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
