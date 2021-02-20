@@ -51,7 +51,7 @@ The COVID-19 pandemic has had a huge impact on physical and mental health. Over 
 ### What are the impacts of technology on health?
 Technology has the capacity to both hinder and improve our health overall, depending on how we use it. According to [Jon Jonson in Medical News Today](https://www.medicalnewstoday.com/articles/negative-effects-of-technology#physical-health-effects), increased use of technology, especially social media sites can lead to increased feelings of depression, anxiety and isolation. Other physical effects include eyestrain due to long hours spent on the screen, and the brightness of these screens, as well as sleep problems caused by blue lights. Finally, perhaps the most evident negative consquence that technology has on our health is the role it plays in limiting the time we take for physical activity, which leads to a large quantity of other detrimental health effects.
 
-However, technology can also be used to benefit human health. [A study published in the journal of clinical medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6912378/) showed that using technology as a tool to measure health metrics like heart rate and calories lead to increased physical activity, and that the ability to link these metrics to social media to share helped to improve physical acitivity rates. Using VR and gamification of physical activities also helps reach populations who would otherwise not be interested in fitness. Technology also helps indirectly by providing information about ways to access spaces to exercise as accessibility, safety, and aesthetics all play a role in how likely someone is to engage in physical activity. Technology also allows healthcare and health tracking to be more personalized than ever, leading to the rise of [health hacking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147743/) which lets people collect and analyze their own data to take their health into their own hands.
+However, technology can also be used to benefit human health. [A study published in the journal of clinical medecine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6912378/) showed that using technology as a tool to measure health metrics like heart rate and calories lead to increased physical activity, and that the ability to link these metrics to social media to share helped to improve physical acitivity rates. Using VR and gamification of physical activities also helps reach populations who would otherwise not be interested in fitness. Technology also allows healthcare and health tracking to be more personalized than ever, leading to the rise of [health hacking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147743/) which lets people collect and analyze their own data to take their health into their own hands.
   
 ## Market Research
 Currently there is no app on the market that both monitors lifestyle and screen time. What most people do is that they use a collection of apps to fill all the functions they need so for example, they would use fitbit to improve their physical health in conjunction with apple fitness+ at the gym and lose it to build up healthy meals. Here follows a Venn diagram displaying what apps exist on the market and what they cover:
@@ -60,19 +60,21 @@ We can see that most apps specialize with no true super app which makes it so us
 
 ## Surveys
 To further understand our users, we conducted a survey to further elicit what they need or expect from health applications. These surveys were also the basis for our user personas, based on different age groups, interests and needs from a health super app. The survey can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSeXmbpaGAEwBv28cvgpiyiZQf132VVsk4mRlpsMhtqeBPvRhA/viewform?usp=sf_link).
- 
+
 The questions were designed to understand what our potential users found to be the most important factors for their physical and mental health and to gain an understanding of their current patterns, motivations and frustrations. Prior to answering the survey, users had to read, consent to, and sign the ethics form provided for the context of the course, to ensure that they had knowledge of why the survey was being conducted and how their data would be used. Their answers were not seen until they decided to submit them, and they also had the right not to answer any question.
 
-The survey was split into 4 sections, listed below with their rationale.
+<details>
+  <summary> Survey results and analysis </summary>
+  
 ### Age Group and Personality
-The purpose of this section is to nderstand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.
+The purpose of this section is to understand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.
 
 There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas,
 
 ### Healthy lifestyle
 This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.
 
-![Factor Importance](assets\Survey-lifestyleTechUse.png)
+![Factor Importance](assets\Survey-healthyLifestyleFactors.png)
 
 From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.
 
@@ -92,6 +94,8 @@ As can be seen in the charts below, most of our respondents are very active on s
 
 ![Social Media Use](assets\Survey-socialMediaHabits.png)
 ![Social Activity](assets\Survey-socialActivity.png)
+ 
+</details>
  
 ## User Personas and Journey Maps
 ### User Personas
