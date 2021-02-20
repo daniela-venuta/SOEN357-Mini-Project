@@ -64,21 +64,26 @@ To further understand our users, we conducted a survey to further elicit what th
 The questions were designed to understand what our potential users found to be the most important factors for their physical and mental health and to gain an understanding of their current patterns, motivations and frustrations. Prior to answering the survey, users had to read, consent to, and sign the ethics form provided for the context of the course, to ensure that they had knowledge of why the survey was being conducted and how their data would be used. Their answers were not seen until they decided to submit them, and they also had the right not to answer any question.
 
 <details>
-  <summary> Survey results and analysis </summary>
-  
-### Age Group and Personality
+  <summary><strong>Age Group and Personality</strong></summary>
 
+<br>
 The purpose of this section is to understand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.
-
+<br>
 There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas,
+<br>
+</details>
 
-### Healthy lifestyle
+<details>
+  <summary><strong>Healthy Lifestyle</strong></summary>
 
+<br>
 This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.
-
-![Factor Importance](assets\Survey-healthyLifestyleFactors.png)
-
+<br>
+<img src="assets\Survey-healthyLifestyleFactors.png" alt="LifestyleFactors">
+<br>
 From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.
+<br>
+</details>
 
 ### Impacts of COVID-19
 
@@ -98,8 +103,6 @@ As can be seen in the charts below, most of our respondents are very active on s
 
 ![Social Media Use](assets\Survey-socialMediaHabits.png)
 ![Social Activity](assets\Survey-socialActivity.png)
-
-</details><br>
  
 ## User Personas and Journey Maps
 ### User Personas
