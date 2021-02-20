@@ -7,23 +7,25 @@ Minh-Tam Do
 Daniela Venuta
 
 # Research
+
 ## Understanding the Problem
 The first step in our reaserch was understand the problem that our potential users are faced with. We tackled the problem by in turn asking ourselves three questions which to better understand the use of technology for health in our current time:
 
 ### What is a healthy lifestyle?
-
 We were tasked with creating an app that would encourage healthy screen habits and a healthy lifestyle. Starting off with our reasearch, we were able to break down a healthy lifestyle into the following main factors:
 
-#### Healthy Diet and Body Weight
+<details>
+  <summary> #### Healthy Diet and Body Weight </summary>
+    
+  A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/). Being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
+</details>
 
-A healthy diet helps take in the right amount of nutrient and keep a balanced body weight. The canadian goverment does provide recommendations in the [Canadian Food Guide](https://food-guide.canada.ca/en/) but in brief, it includes eating a balanced amount of fruits, vegetables, proteins and grains. The guide also recommends water as a choice beverage over other alternatives. This in turn helps you maintain a balanced body weight as being undernourished or overweight can put you at risk of contracting more health complications such as obesity, heart diseases and diabetes.
 
 #### Physical Activity
 Being active is an important part of a healthy lifestyle as it helps growth in children and, similarly to a healthy diet, helps deter various chronic diseases including cancer, type 2 diabetes and hypertension.
 
 #### Mental Health
-
-The importance of mental health is a recent concept. Mental health and physical health are actually 2 concepts that are like ying and yang: different yet ever so close and intermingled in each other. The World Health Organisation defines mental health as a "state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community". This is influenced by multiple factors other than a healthy lifestyle such as stress and/or social life. Being in a healthy mental state is also primordial to having a healthy lifestyle.
+The World Health Organisation defines mental health as a "state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community". Mental Health and Physical health are closely related and being in a healthy mental state contributes to being healthy physically.
 
 #### Good Sleep
 
@@ -46,7 +48,7 @@ However, many of these effects can be mitigated with the proper techniques to ma
   
 ## Market Research
 Currently there is no app on the market that both monitors lifestyle and screen time. What most people do is that they use a collection of apps to fill all the functions they need so for example, they would use fitbit to improve their physical health in conjunction with apple fitness+ at the gym and lose it to build up healthy meals. Here follows a Venn diagram displaying what apps exist on the market and what they cover:
-![Venn Diagram](./Market%20Research%20-%20Frame%201.jpg)
+![Venn Diagram](assets\MarketResearch-vennDiagram.jpg)
 We can see that most apps specialize with no true super app which makes it so users are forced to use multiple apps together. Also note that there is no lifestyle app that covers screen time.
 
 ## Surveys
@@ -57,67 +59,59 @@ The questions were designed to understand what our potential users found to be t
 The survey was split into 4 sections, listed below with their rationale.
 ### Age Group and Personality
 The purpose of this section is to nderstand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.
-  
-#### Main findings
-There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas.
+
+There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas,
 
 ### Healthy lifestyle
-This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective.
-  
-![Current use of fitness applications from respondents](./current%20tech%20use.png)
-  
-#### Main findings
-    MINH HERE!
+This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.
+
+![Factor Importance](assets\Survey-lifestyleTechUse.png)
+
+From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.
 
 ### Impacts of COVID-19
 This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.
 
-#### Main findings
+ ![Impact on Outdoor Activity](assets\Survey-covidAndOutdoors.png)
+ ![Impact on Technology Use](assets\Survey-covidAndTech.png)
+ ![Impact on Health](assets\Survey-covidImpactOnHealth.png)
 
 This section of the survey highlight several important feelings that a majority of the respondents felt accross all age groups. Overall, the pandmic had a significant impact on how they perceived their overall health. Most participants noticed an increase in their technology use, and felt that the pandemic was hindering their ability to go outside to get physical activity/ They also felt that their ability to socialize, exciize and maintain their social needs were mostly impacted by the pandemic. The graph below show the findings across all age groups.
 
- ![Impact on Outdoor Activity](./covid%20and%20outdoors.png)
- ![Impact on Technology Use](./covid%20and%20tech.png)
- ![Impact on Health](./Impact%20of%20Covid%20on%20Health.png)
- 
 ### Experience with Technology and Fitness Applications
 The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.
 
-#### Main findings
 As can be seen in the charts below, most of our respondents are very active on social media, as it takes up more than 2 hours of their day, making the inclusion of social media into our application an interesting path to explore, however, the results are much more mixed in terms of whether they would like to see the activity of others shared.
 
-![Social Media Use](./Social%20Media%20Habits.png)
-![Social Activity](./social%20activity.png)
+![Social Media Use](assets\Survey-socialMediaHabits.png)
+![Social Activity](assets\Survey-socialActivity.png)
  
-## User Personas
+## User Personas and Journey Maps
+### User Personas
 The following user personas were derived from the results of the survey to encompass the wide range of possible users and how our application can serve their needs. We decided to make four user personas to properly distinguish between the different types of users that answered our survey, focusing on their own goals and experience with technology, as well as the motivations that would encourage them to use our application.
+
+### Journey Maps
+The following journey maps were derived from the created user personas, centered around different aspects of OmniHealth. Hashing out these journey maps for specific user personas helped focus put us in the mindset of our own clients, focaliszing on the user experience. This allowed to discern any wants or annoyances within the client, and to then make sure the application had functionalities addressed them.
  
  ### The "Fit Dad"
+ ![NicolasGace-Persona](assets\NicolasGace-persona.jpg)
+ ![NicolasGace-JourneyMap](assets\NicolasGace-JourneyMap.jpg)
+ This user persona is derived from older age groups in our surveys, that are incredibly active and are focused on hacking their health data to improve their athletic performance and overall health. Getting analytics back is very important to them, and want to be able to access this information easily to put it to good use. They also want to challenge each other, which is why social features are important to them.
  
- ![a](./Mini%20Project%20-%20Frame%201.jpg)
+ ### The "Fitness Enthousiast"
+ ![MarcusDantin-Persona](assets\MarcusDantin-persona.jpg)
+ ![MarcusDantin-JourneyMap](assets\MarcusDantin-JourneyMap.jpg)
+ This persona is formed from a tech savvy younger age group who works out frequently and is quite familiar with technology. They want applications to be customizable to their needs to keep their health schedule on track, and are motivated by seeing history and improvement in terms of their overall fitness. They are extroverted but still concerned about privacy, so their data is important to them, but they are less likely to share it on social apps.
  
-This user persona is derived from older age groups in our surveys, that are incredibly active and are focused on hacking their health data to improve their athletic performance and overall health. Getting analytics back is very important to them, and want to be able to access this information easily to put it to good use. They also want to challenge each other, which is why social features are important to them.
-
- ### The "Fitness Enthusiast"
- 
- ![a](./Mini%20Project%20-%20Frame%202.jpg)
- 
-This personais formed from a tech savvy younger age group who works out frequently and is quite familiar with technology. They want applications to be customizable to their needs to keep their health schedule on track, and are motivated by seeing history and improvement in terms of their overall fitness. They are extroverted but still concerned about privacy, so their data is important to them, but they are less likely to share it on social apps.
-
  ### The "Working Mom"
- 
- ![a](./Mini%20Project%20-%20Frame%203.jpg)
- 
+ ![SylviaSmith-Persona](assets\SylviaSmith-persona.jpg)
+ ![SylviaSmith-JourneyMap](assets\SylviaSmith-JourneyMap.jpg)
 This persona is a that wants to keep track of specific health habits for themselves, and take that information with them to medical appointments, they are more focused on certain features like screen time, and food and sleep tracking, and are less familiar with the concept of a super app. They want to see results from their tracking, but are not on a specific plan or schedule.
- 
+
  ### The "Casual User"
-
- ![a](./Mini%20Project%20-%20Frame%204.jpg)
- 
+ ![KatelynRoss-Persona](assets\KatelynRoss-persona.jpg)
+ ![KatelynRoss-JourneyMap](assets\KatelynRoss-JourneyMap.jpg)
 This user is familiar with technology and uses many apps to explore how they can benefit their health but can benefit from having them all under one umbrella. They are introverted, and conscious of themselves, and want an easy way to keep track of all the apps they use.
- 
-## Journey Map
-
 # Sketches
 
 # Colour Palette
