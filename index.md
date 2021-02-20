@@ -21,25 +21,25 @@ A healthy diet helps take in the right amount of nutrient and keep a balanced bo
 </details>
 
 <details>
-  <summary><strong>Physical Activity</strong><summary>
+  <summary><strong>Physical Activity</strong></summary>
 
 Being active is an important part of a healthy lifestyle as it helps growth in children and, similarly to a healthy diet, helps deter various chronic diseases including cancer, type 2 diabetes and hypertension.
 </details>
 
 <details>
-  <summary><strong>Mental Health</strong><summary>
+  <summary><strong>Mental Health</strong></summary>
     
 The World Health Organisation defines mental health as a "state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community". Mental Health and Physical health are closely related and being in a healthy mental state contributes to being healthy physically.
 </details>
 
 <details>
-  <summary><strong>Good Sleep</strong><summary>
+  <summary><strong>Good Sleep</strong></summary>
     
 Sleep, like nutrition, is the basis of a healthy lifestyle. It ensures your body has enough energy to work properly throughout the day. The concept of good sleep is relatively new as we discovered how better sleeping habits and sleeping posture can help us achieve a better rest and therefore, a healthier lifestyle.
 </details>
 
 <details>
-  <summary><strong>Foreign Substances consumption</strong><summary>
+  <summary><strong>Foreign Substances consumption</strong></summary>
     
 Smoking of any sort is especially bad for lungs whether it is tobacco, weed or another substance. Alcohol on the other hand is ok in moderation but overdose can lead to a decline in mental faculties and organ failure.
 </details>
