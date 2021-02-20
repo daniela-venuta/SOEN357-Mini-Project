@@ -28,24 +28,32 @@ The first step in our reaserch was understand the problem that our potential use
  ## User Personas
  The following user personas were derived from the results of the survey to encompass the wide range of possible users and how our application can serve their needs.
  
- # User Persona 1
+ ### User Persona 1
  ![a](./Mini%20Project%20-%20Frame%201.jpg)
  
- # User Persona 2
+ ### User Persona 2
  ![a](./Mini%20Project%20-%20Frame%202.jpg)
  
- # User Persona 3
+ ### User Persona 3
  ![a](./Mini%20Project%20-%20Frame%203.jpg)
  
- # User Persona 4
+ ### User Persona 4
  ![a](./Mini%20Project%20-%20Frame%204.jpg)
  
-### Mockup
+ 
+# Wireframes
+
+ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbJJuujpniYeyRokV3QwjJJ%2FWireframes-and-Prototypes" allowfullscreen></iframe>
+ 
+# Mockup
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLXF5BgSzYSb7XUnbkNRak5%2FMockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-### Closing Remarks
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLXF5BgSzYSb7XUnbkNRak5%2FMockup%3Fnode-id%3D1%253A1869%26scaling%3Dscale-down" allowfullscreen></iframe>
 
-### Picture Sources
+# Closing Remarks
 
-### References
+# Picture Sources
+
+# References
 
