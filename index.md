@@ -67,11 +67,13 @@ The questions were designed to understand what our potential users found to be t
   <summary> Survey results and analysis </summary>
   
 ### Age Group and Personality
+
 The purpose of this section is to understand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.
 
 There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas,
 
 ### Healthy lifestyle
+
 This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.
 
 ![Factor Importance](assets\Survey-healthyLifestyleFactors.png)
@@ -79,6 +81,7 @@ This section asked users to rank different aspects of health from depending on h
 From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.
 
 ### Impacts of COVID-19
+
 This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.
 
  ![Impact on Outdoor Activity](assets\Survey-covidAndOutdoors.png)
@@ -88,14 +91,15 @@ This section surveyed how COVID-19 impacted the survey taker's personal health a
 This section of the survey highlight several important feelings that a majority of the respondents felt accross all age groups. Overall, the pandmic had a significant impact on how they perceived their overall health. Most participants noticed an increase in their technology use, and felt that the pandemic was hindering their ability to go outside to get physical activity/ They also felt that their ability to socialize, exciize and maintain their social needs were mostly impacted by the pandemic. The graph below show the findings across all age groups.
 
 ### Experience with Technology and Fitness Applications
+
 The final section evaluated the user's experience with technology and how they interacted with social media and friends on social media. It gathered information on their motivations and frustrations with health apps, and determined whether they were more or less likely to use apps depending on certain social factors.
 
 As can be seen in the charts below, most of our respondents are very active on social media, as it takes up more than 2 hours of their day, making the inclusion of social media into our application an interesting path to explore, however, the results are much more mixed in terms of whether they would like to see the activity of others shared.
 
 ![Social Media Use](assets\Survey-socialMediaHabits.png)
 ![Social Activity](assets\Survey-socialActivity.png)
- 
-</details>
+
+</details><br>
  
 ## User Personas and Journey Maps
 ### User Personas
