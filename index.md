@@ -137,6 +137,8 @@ Below is the prototype of the application, it is not meant to be a fully functio
 
 # Closing Remarks
 
+The development of these user interface and user experience prototypes allowed us to consider a wide variety of users and their needs. It was important for our application to provide a wide variety of services that can be useful both for hardcore health and fitness enthusiasts as well as more casual users and provide the ability to customize the app to their prefered experience. For this reason, all basic services can be accessed easily through the main hub, but those who want more are free to explore different pages that can provide them with more tailored services. It also gives users flexibility in their privacy and to share only what they want to with the world. OmniHealth is an application that improves the overall health and wellbeing of its users by letting them be more conscious of their screentime, and by gathering under one app all the main factors of health: physical, mental, and social.
+
 # Picture Sources
 
 # References
