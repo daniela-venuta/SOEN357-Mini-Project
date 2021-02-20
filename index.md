@@ -26,40 +26,26 @@ The first step in our reaserch was understand the problem that our potential use
  ![Impact on Health](./Impact%20of%20Covid%20on%20Health.png)
  
  ## User Personas
+ The following user personas were derived from the results of the survey to encompass the wide range of possible users and how our application can serve their needs.
  
+ # User Persona 1
  ![a](./Mini%20Project%20-%20Frame%201.jpg)
+ 
+ # User Persona 2
  ![a](./Mini%20Project%20-%20Frame%202.jpg)
+ 
+ # User Persona 3
  ![a](./Mini%20Project%20-%20Frame%203.jpg)
+ 
+ # User Persona 4
  ![a](./Mini%20Project%20-%20Frame%204.jpg)
  
-### Markdown
+### Mockup
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLXF5BgSzYSb7XUnbkNRak5%2FMockup%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Closing Remarks
 
-```markdown
-Syntax highlighted code block
+### Picture Sources
 
-# Header 1
-## Header 2
-### Header 3
+### References
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daniela-venuta/SOEN357-Mini-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
