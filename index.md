@@ -40,15 +40,15 @@ The questions were designed to understand what our potential users found to be t
 The survey was split into 4 sections, listed below with their rationale.
 ### Age Group and Personality
 The purpose of this section is to nderstand where the survey takers are located Myers Briggs Type Indicator (MBTI) spectrum, and gain insight on whether age and personality plays a factor in app usage.
-  
-#### Main findings
+
 There was a total of 45 respondents in these sections. Over 88% of or respondents were in the 18-25 age, 4.4% were in the 25-50 age bracket and 6.7% were in the 50 and older age bracket. These proportions were taken into account when writing the user personas,
 
 ### Healthy lifestyle
-This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective.
-  
-#### Main findings
-    MINH HERE!
+This section asked users to rank different aspects of health from depending on how cricual they perceived they were to their own personal health, and surveyed whether they   were already using fitness technology to learn more about the current market environment from our user perspective. These informations were taken into account when writing the user personnas.
+
+![Factor Importance](./Healthy%20Lifestyle%20-%20importance%20of%20factors.png)
+
+From this data, we can see that when they want to have a healthier lifestyle, people would want to track/improve their diet, physical activity, sleep and mental health. We will therefore focus on these factors when designing our app in conjustion with managing screen time.
 
 ### Impacts of COVID-19
 This section surveyed how COVID-19 impacted the survey taker's personal health and the degree to which they felt impacted, as well as how their perception of the pandemic impacted their technology use and activity levels.
