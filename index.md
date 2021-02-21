@@ -191,26 +191,24 @@ The development of these user interface and user experience prototypes allowed u
 <details>
   <summary><strong style="font-size:2em">Picture Sources</strong></summary>
 <br>
-https://www.pexels.com/photo/photo-of-smartphone-near-decorative-plant-4065906/
+Cottonbro, “Photo of Smartphone Near Decorative Plant · Free Stock Photo.” https://www.pexels.com/photo/photo-of-smartphone-near-decorative-plant-4065906/ (accessed Feb. 20, 2021).
+<br><br>
+Cottonbro, “Person Holding Orange Fruit · Free Stock Photo.” https://www.pexels.com/photo/person-holding-orange-fruit-3737690/ (accessed Feb. 20, 2021).
+<br><br>
+Cottonbro, “Free stock photo of at home, beautiful home, bed.” https://www.pexels.com/photo/bed-bedroom-morning-home-4045539/ (accessed Feb. 20, 2021).
+<br><br>
+Pixabay, “Stainless Steel Close Wrench on Spanner · Free Stock Photo.” https://www.pexels.com/photo/stainless-steel-close-wrench-on-spanner-210881/ (accessed Feb. 20, 2021).
+<br><br>
+J. Polanco, “People At The Beach · Free Stock Photo.” https://www.pexels.com/photo/people-at-the-beach-3925081/ (accessed Feb. 20, 2021).
+<br><br>
+K. Grabowska, “All cast dumbbell placed on marble table · Free Stock Photo.” https://www.pexels.com/photo/all-cast-dumbbell-placed-on-marble-table-4397838/ (accessed Feb. 20, 2021).
+<br><br>
+“Man Standing Beside Wall · Free Stock Photo.” https://www.pexels.com/photo/man-standing-beside-wall-2364605/ (accessed Feb. 20, 2021).
+<br><br>
+I. Palamarchuk, “Healthy Lifestyle Middle Aged Man Runner Stock Photo,” Shutterstock.com. /image-photo/healthy-lifestyle-middle-aged-man-runner-690872596 (accessed Feb. 20, 2021).
+<br><br>
+K. Grabowska, “Pensive lady watching movie on laptop at home · Free Stock Photo.” https://www.pexels.com/photo/pensive-lady-watching-movie-on-laptop-at-home-4468138/ (accessed Feb. 20, 2021).
 <br>
-https://www.pexels.com/photo/person-holding-orange-fruit-3737690/
-<br>
-https://www.pexels.com/photo/bed-bedroom-morning-home-4045539/
-<br>
-https://www.pexels.com/photo/stainless-steel-close-wrench-on-spanner-210881/
-<br>
-https://www.pexels.com/photo/people-at-the-beach-3925081/
-<br>
-https://www.pexels.com/photo/all-cast-dumbbell-placed-on-marble-table-4397838/
-<br>
-https://www.pexels.com/photo/man-standing-beside-wall-2364605/
-<br>
-https://www.shutterstock.com/image-photo/healthy-lifestyle-middle-aged-man-runner-690872596
-<br>
-https://www.pexels.com/photo/pensive-lady-watching-movie-on-laptop-at-home-4468138/
-<br>
-https://www.pexels.com/photo/pensive-lady-watching-movie-on-laptop-at-home-4468138/
-  
 </details>
 
 <details>
@@ -255,7 +253,7 @@ CDC, “Benefits of Physical Activity,” Centers for Disease Control and Preven
 H. H. Publishing, “In search of sleep,” Harvard Health. https://www.health.harvard.edu/womens-health/in-search-of-sleep (accessed Feb. 20, 2021).
 <br><br>
 CDCTobaccoFree, “Health Effects of Smoking and Tobacco Use,” Centers for Disease Control and Prevention, Feb. 09, 2017. https://www.cdc.gov/tobacco/basic_information/health_effects/index.htm (accessed Feb. 20, 2021).
-<br>
+<br><br>
 “Drinking too much alcohol can harm your health. Learn the facts | CDC,” Feb. 19, 2021. https://www.cdc.gov/alcohol/fact-sheets/alcohol-use.htm (accessed Feb. 20, 2021).
 <br>
 </details>
