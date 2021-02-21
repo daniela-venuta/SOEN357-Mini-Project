@@ -203,7 +203,7 @@ J. Polanco, “People At The Beach · Free Stock Photo.” https://www.pexels.co
 <br><br>
 K. Grabowska, “All cast dumbbell placed on marble table · Free Stock Photo.” https://www.pexels.com/photo/all-cast-dumbbell-placed-on-marble-table-4397838/ (accessed Feb. 20, 2021).
 <br><br>
-“Man Standing Beside Wall · Free Stock Photo.” https://www.pexels.com/photo/man-standing-beside-wall-2364605/ (accessed Feb. 20, 2021).
+Ficky, “Man Standing Beside Wall · Free Stock Photo.” https://www.pexels.com/photo/man-standing-beside-wall-2364605/ (accessed Feb. 20, 2021).
 <br><br>
 I. Palamarchuk, “Healthy Lifestyle Middle Aged Man Runner Stock Photo,” Shutterstock.com. /image-photo/healthy-lifestyle-middle-aged-man-runner-690872596 (accessed Feb. 20, 2021).
 <br><br>
