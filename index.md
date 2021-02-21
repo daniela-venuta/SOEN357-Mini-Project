@@ -215,38 +215,48 @@ https://www.pexels.com/photo/pensive-lady-watching-movie-on-laptop-at-home-44681
 
 <details>
   <summary><strong style="font-size:2em">References</strong></summary>
-
 <br>
 “Negative effects of technology: Psychological, social, and health,” Feb. 25, 2020. https://www.medicalnewstoday.com/articles/negative-effects-of-technology (accessed Feb. 20, 2021).
-<br>
+<br><br>
 Z. Gao and J. E. Lee, “Emerging Technology in Promoting Physical Activity and Health: Challenges and Opportunities,” J Clin Med, vol. 8, no. 11, Nov. 2019, doi: 10.3390/jcm8111830.
-<br>
+<br><br>
 H. Thimbleby, “Technology and the Future of Healthcare,” J Public Health Res, vol. 2, no. 3, Dec. 2013, doi: 10.4081/jphr.2013.e28.
+<br><br>
+M. T. MPH MD, “Healthy lifestyle: 5 keys to a longer life,” Harvard Health Blog, Jul. 05, 2018. https://www.health.harvard.edu/blog/healthy-lifestyle-5-keys-to-a-longer-life-2018070514186 (accessed Feb. 20, 2021).
+<br><br>
+World Health Organization, “Healthy Living.” [Online]. Available: http://www.kznhealth.gov.za/healthyliving.pdf.
+<br><br>
+National Alliance on Mental Illness, “Mental Health: Maintaining a Healthy Lifestyle.” [Online]. Available: https://www.nami.org/getattachment/Extranet/NAMI-State-Organization-and-NAMI-Affiliate-Leaders/Awareness/AKA/Mental-Health-Fact-Sheets/Maintaining-a-Healthy-Lifestyle.pdf.
+<br><br>
+S. Canada, “Tableau de la valeur nutritive,” aem, Jul. 26, 2004. https://www.canada.ca/fr/sante-canada/services/comprendre-etiquetage-aliments/tableau-valeur-nutritive.html (accessed Feb. 20, 2021).
+<br><br>
+CDC, “Healthy Eating for a Healthy Weight,” Centers for Disease Control and Prevention, Jan. 08, 2021. https://www.cdc.gov/healthyweight/healthy_eating/index.html (accessed Feb. 20, 2021).
+<br><br>
+“Cannabis and Your Health,” HealthLink BC, Oct. 16, 2018. https://www.healthlinkbc.ca/health-topics/cannabis-your-health (accessed Feb. 20, 2021).
+<br><br>
+J. Velten, A. Bieda, S. Scholten, A. Wannemüller, and J. Margraf, “Lifestyle choices and mental health: a longitudinal survey with German and Chinese students,” BMC Public Health, vol. 18, no. 1, p. 632, May 2018, doi: 10.1186/s12889-018-5526-2.
+<br><br>
+“Benefits of Good Mental Health,” CMHA Toronto. https://toronto.cmha.ca/documents/benefits-of-good-mental-health/ (accessed Feb. 20, 2021).
+<br><br>
+“The Impact of COVID-19 on the Future of Technology,” Blue Fountain Media. https://www.bluefountainmedia.com/blog/impact-covid-19-future-technology (accessed Feb. 20, 2021).
+<br><br>
+“7 ways technology is helping small businesses during COVID-19,” Dallas News, Nov. 20, 2020. https://www.dallasnews.com/business/2020/11/20/7-ways-technology-is-helping-small-businesses-during-covid-19/ (accessed Feb. 20, 2021).
+<br><br>
+H. Canada, “Download COVID Alert: Canada’s exposure notification app,” aem, Sep. 15, 2020. https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html (accessed Feb. 20, 2021).
+<br><br>
+“ConvergeHEALTH Connect for Crisis Response |Deloitte US.” https://www2.deloitte.com/us/en/pages/consulting/solutions/convergehealth-connect-for-crisis-response-health-care.html (accessed Feb. 20, 2021).
+<br><br>
+K. Goldschmidt, “The COVID-19 Pandemic: Technology use to Support the Wellbeing of Children,” J Pediatr Nurs, vol. 53, pp. 88–90, 2020, doi: 10.1016/j.pedn.2020.04.013.
+<br><br>
+H. H. Publishing, “Effects of obesity and exercise: Is obesity a mental health issue? The Harvard Mental Health Letter investigates,” Harvard Health. https://www.health.harvard.edu/press_releases/obesity_exercise_and_effects (accessed Feb. 20, 2021).
+<br><br>
+CDC, “Benefits of Physical Activity,” Centers for Disease Control and Prevention, Dec. 02, 2020. https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm (accessed Feb. 20, 2021).
+<br><br>
+H. H. Publishing, “In search of sleep,” Harvard Health. https://www.health.harvard.edu/womens-health/in-search-of-sleep (accessed Feb. 20, 2021).
+<br><br>
+CDCTobaccoFree, “Health Effects of Smoking and Tobacco Use,” Centers for Disease Control and Prevention, Feb. 09, 2017. https://www.cdc.gov/tobacco/basic_information/health_effects/index.htm (accessed Feb. 20, 2021).
 <br>
-https://www.health.harvard.edu/blog/healthy-lifestyle-5-keys-to-a-longer-life-2018070514186
+“Drinking too much alcohol can harm your health. Learn the facts | CDC,” Feb. 19, 2021. https://www.cdc.gov/alcohol/fact-sheets/alcohol-use.htm (accessed Feb. 20, 2021).
 <br>
-http://www.kznhealth.gov.za/healthyliving.pdf
-<br>
-https://www.nami.org/getattachment/Extranet/NAMI-State-Organization-and-NAMI-Affiliate-Leaders/Awareness/AKA/Mental-Health-Fact-Sheets/Maintaining-a-Healthy-Lifestyle.pdf
-<br>
-https://www.canada.ca/fr/sante-canada/services/comprendre-etiquetage-aliments/tableau-valeur-nutritive.html 
-<br>
-https://www.cdc.gov/healthyweight/healthy_eating/index.html 
-<br>
-https://www.healthlinkbc.ca/health-topics/cannabis-your-health 
-<br>
-https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5526-2 
-<br>
-https://toronto.cmha.ca/documents/benefits-of-good-mental-health/ 
-<br>
-https://www.bluefountainmedia.com/blog/impact-covid-19-future-technology 
-<br>
-https://www.dallasnews.com/business/2020/11/20/7-ways-technology-is-helping-small-businesses-during-covid-19/
-<br>
-https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html 
-<br>
-https://www2.deloitte.com/us/en/pages/consulting/solutions/convergehealth-connect-for-crisis-response-health-care.html 
-<br>
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161478/ 
 </details>
 
