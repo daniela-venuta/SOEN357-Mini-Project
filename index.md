@@ -128,6 +128,11 @@ This user is familiar with technology and uses many apps to explore how they can
 
 The main colours for our applications are all purple hues. These colours were chosen for their wide appeal, and because purple is both [calming, and energetic](https://www.bourncreative.com/meaning-of-the-color-purple/#:~:text=Purple%20combines%20the%20calm%20stability,mystery%2C%20independence%2C%20and%20magic) as it has hues of both blue and red. Users will be spending a lot of time on the application so it was important to select colours that would not cause eye strain due to their brightness. It goes well with both the calmer uses such as sleep tracking and screen time tracking, but also provides the energy needed to track workouts and fitness.
 
+# Typography
+![Typography](assets\roboto%20font.png)
+
+We used the Roboto typography because it is both minimalist and a sans-serif font. Its minimalist look helps maintain the professionalism of the app while the use of a relatively large (14-16) sans serif font is meant to be dyslexia-inclusive.
+
 # Wireframes
 
  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FbJJuujpniYeyRokV3QwjJJ%2FWireframes-and-Prototypes" allowfullscreen></iframe>
