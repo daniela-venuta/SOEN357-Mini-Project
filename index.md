@@ -139,7 +139,7 @@ The questions were designed to understand what our potential users found to be t
   <img src="assets\Survey-socialMediaHabits.png" alt="social media use">
   <img src="assets\Survey-socialActivity.png" alt="social life">
 </details>
- 
+  <br/>
 ## User Personas and Journey Maps
 ### User Personas
 The following user personas were derived from the results of the survey to encompass the wide range of possible users and how our application can serve their needs. We decided to make four user personas to properly distinguish between the different types of users that answered our survey, focusing on their own goals and experience with technology, as well as the motivations that would encourage them to use our application.
@@ -173,6 +173,7 @@ This user is familiar with technology and uses many apps to explore how they can
 
 # Sketches
 The following was our initial sketch of the app, after having received all survey responses.
+  <br/>
 <img src="assets\design%20sketch.jpg" height=450px>
 
 # Colour Palette
